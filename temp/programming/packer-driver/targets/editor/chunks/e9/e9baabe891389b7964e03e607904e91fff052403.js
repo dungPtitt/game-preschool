@@ -1,0 +1,1113 @@
+System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], function (_export, _context) {
+  "use strict";
+
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _cc, VDScrollView, VDScrollDirection, VDTableCell, _dec, _dec2, _dec3, _dec4, _dec5, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _class3, _crd, cc, VDTableViewFillOrder, VDTableViewInteractionMode, ccclass, property, VDTableView;
+
+  function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
+
+  function _applyDecoratedDescriptor(target, property, decorators, descriptor, context) { var desc = {}; Object.keys(descriptor).forEach(function (key) { desc[key] = descriptor[key]; }); desc.enumerable = !!desc.enumerable; desc.configurable = !!desc.configurable; if ('value' in desc || desc.initializer) { desc.writable = true; } desc = decorators.slice().reverse().reduce(function (desc, decorator) { return decorator(target, property, desc) || desc; }, desc); if (context && desc.initializer !== void 0) { desc.value = desc.initializer ? desc.initializer.call(context) : void 0; desc.initializer = undefined; } if (desc.initializer === void 0) { Object.defineProperty(target, property, desc); desc = null; } return desc; }
+
+  function _initializerWarningHelper(descriptor, context) { throw new Error('Decorating class property failed. Please ensure that ' + 'proposal-class-properties is enabled and runs after the decorators transform.'); }
+
+  function _reportPossibleCrUseOfVDScrollView(extras) {
+    _reporterNs.report("VDScrollView", "./VDScrollView", _context.meta, extras);
+  }
+
+  function _reportPossibleCrUseOfVDScrollViewDelegate(extras) {
+    _reporterNs.report("VDScrollViewDelegate", "./VDScrollView", _context.meta, extras);
+  }
+
+  function _reportPossibleCrUseOfVDScrollDirection(extras) {
+    _reporterNs.report("VDScrollDirection", "./VDScrollView", _context.meta, extras);
+  }
+
+  function _reportPossibleCrUseOfVDTableCell(extras) {
+    _reporterNs.report("VDTableCell", "./VDTableCell", _context.meta, extras);
+  }
+
+  _export({
+    VDTableViewFillOrder: void 0,
+    VDTableViewInteractionMode: void 0
+  });
+
+  return {
+    setters: [function (_unresolved_) {
+      _reporterNs = _unresolved_;
+    }, function (_cc2) {
+      _cclegacy = _cc2.cclegacy;
+      __checkObsolete__ = _cc2.__checkObsolete__;
+      __checkObsoleteInNamespace__ = _cc2.__checkObsoleteInNamespace__;
+      _cc = _cc2;
+    }, function (_unresolved_2) {
+      VDScrollView = _unresolved_2.default;
+      VDScrollDirection = _unresolved_2.VDScrollDirection;
+    }, function (_unresolved_3) {
+      VDTableCell = _unresolved_3.default;
+    }],
+    execute: function () {
+      _crd = true;
+
+      _cclegacy._RF.push({}, "abdcfT1u0NGmpmO302vXQC7", "VDTableView", undefined);
+
+      cc = __checkObsoleteInNamespace__(_cc);
+
+      (function (VDTableViewFillOrder) {
+        VDTableViewFillOrder[VDTableViewFillOrder["LEFT_TO_RIGHT__TOP_TO_BOTTOM"] = 0] = "LEFT_TO_RIGHT__TOP_TO_BOTTOM";
+        VDTableViewFillOrder[VDTableViewFillOrder["TOP_TO_BOTTOM__LEFT_TO_RIGHT"] = 1] = "TOP_TO_BOTTOM__LEFT_TO_RIGHT";
+      })(VDTableViewFillOrder || _export("VDTableViewFillOrder", VDTableViewFillOrder = {}));
+
+      (function (VDTableViewInteractionMode) {
+        VDTableViewInteractionMode[VDTableViewInteractionMode["NONE"] = 0] = "NONE";
+        VDTableViewInteractionMode[VDTableViewInteractionMode["CLICK"] = 1] = "CLICK";
+        VDTableViewInteractionMode[VDTableViewInteractionMode["SINGLE_SELECTION"] = 2] = "SINGLE_SELECTION";
+        VDTableViewInteractionMode[VDTableViewInteractionMode["MULTIPLE_SELECTION"] = 3] = "MULTIPLE_SELECTION";
+      })(VDTableViewInteractionMode || _export("VDTableViewInteractionMode", VDTableViewInteractionMode = {}));
+
+      ({
+        ccclass,
+        property
+      } = cc._decorator);
+
+      _export("default", VDTableView = (_dec = property({
+        type: cc.Enum(VDTableViewFillOrder)
+      }), _dec2 = property({
+        type: cc.Enum(VDTableViewInteractionMode)
+      }), _dec3 = property(cc.CCBoolean), _dec4 = property(cc.CCInteger), _dec5 = property(cc.Prefab), ccclass(_class = (_class2 = (_class3 = class VDTableView extends (_crd && VDScrollView === void 0 ? (_reportPossibleCrUseOfVDScrollView({
+        error: Error()
+      }), VDScrollView) : VDScrollView) {
+        constructor(...args) {
+          super(...args);
+
+          _initializerDefineProperty(this, "fillOrder", _descriptor, this);
+
+          _initializerDefineProperty(this, "interactionMode", _descriptor2, this);
+
+          _initializerDefineProperty(this, "cellPagingEnabled", _descriptor3, this);
+
+          _initializerDefineProperty(this, "numberOfPagingCell", _descriptor4, this);
+
+          _initializerDefineProperty(this, "tableCell", _descriptor5, this);
+
+          this._cellSize = cc.Size.ZERO;
+          this._cellAnchor = cc.v2(0.5, 0.5);
+          this._indices = new Set();
+          this._cellsUsed = [];
+          this._cellsFreed = null;
+          this._rows = 0;
+          this._cols = 0;
+          this._realContentSize = cc.Size.ZERO;
+          this._lastestCellCount = 0;
+          this._selectedIndices = [];
+          this._tableViewDelegate = null;
+          this._dataSource = null;
+          this._isUsedCellsDirty = true;
+          this._highlightedIndex = -1;
+          this._touchingIndex = -1;
+          this._highlightedTouchObj = null;
+          this._startIdx = 0;
+          this._endIdx = 0;
+          this._mouseWheelEventElapsedTime = 0;
+          this._stopMouseWheel = false;
+        }
+
+        get cellSize() {
+          return this._cellSize;
+        }
+
+        set cellSize(value) {
+          this._cellSize = value;
+        }
+
+        get rows() {
+          return this._rows;
+        }
+
+        get cols() {
+          return this._cols;
+        }
+
+        get selectedIndex() {
+          if (this._selectedIndices.length > 0) {
+            return this._selectedIndices[this._selectedIndices.length - 1];
+          } else {
+            return -1;
+          }
+        }
+
+        get selectedIndices() {
+          return this._selectedIndices;
+        }
+
+        get delegate() {
+          return this._tableViewDelegate;
+        }
+
+        set delegate(value) {
+          this._tableViewDelegate = value;
+        }
+
+        get dataSource() {
+          return this._dataSource;
+        }
+
+        set dataSource(value) {
+          this._dataSource = value;
+        }
+
+        // LIFE-CYCLE CALLBACKS:
+        cellCacheKey() {
+          return this.tableCell.data.name;
+        }
+
+        onLoad() {
+          super.onLoad();
+
+          if (!this.tableCell) {
+            throw "TableView must have a cell prefab reference";
+          }
+
+          let cacheKey = this.cellCacheKey();
+          let cache = VDTableView._cellPoolCache[cacheKey];
+
+          if (!cache) {
+            cache = VDTableView._cellPoolCache[cacheKey] = new cc.NodePool(cacheKey + "<TableCellPool>");
+          }
+
+          this._cellsFreed = cache;
+
+          if (this._dataSource && this._dataSource.tableCellSize) {
+            this._cellSize = this._dataSource.tableCellSize(this);
+          } else {
+            this._cellSize = cc.size(this.tableCell.data.getComponent(cc.UITransform).width * this.tableCell.data.getScale().x, this.tableCell.data.getComponent(cc.UITransform).height * this.tableCell.data.getScale().y);
+          }
+
+          if (this._dataSource && this._dataSource.tableCellAnchor) {
+            this._cellAnchor = this._dataSource.tableCellAnchor(this);
+          } else {
+            this._cellAnchor = this.tableCell.data.getComponent(cc.UITransform).anchorPoint;
+          }
+
+          this.content.getComponent(cc.UITransform).anchorX = 0;
+          this.content.getComponent(cc.UITransform).anchorY = 1;
+          this.zoomScaleEnabled = false;
+
+          if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).BOTH) {
+            this.direction = (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+              error: Error()
+            }), VDScrollDirection) : VDScrollDirection).VERTICAL;
+          }
+        }
+
+        onEnable() {
+          super.onEnable();
+
+          if (this.interactionMode != VDTableViewInteractionMode.NONE) {
+            this.content.on(cc.Node.EventType.TOUCH_START, this._onTableTouchBegan, this);
+            this.content.on(cc.Node.EventType.TOUCH_MOVE, this._onTableTouchMove, this);
+            this.content.on(cc.Node.EventType.TOUCH_END, this._onTableTouchEnded, this);
+            this.content.on(cc.Node.EventType.TOUCH_CANCEL, this._onTableTouchCancelled, this);
+            this.content.on(cc.Node.EventType.MOUSE_WHEEL, this._onMouseWheel, this, true);
+          }
+
+          this.node.on('size-changed', this._onViewSizeChanged, this);
+
+          this._updateContentSize();
+        }
+
+        onDisable() {
+          super.onDisable();
+
+          if (this.interactionMode != VDTableViewInteractionMode.NONE) {
+            this.content.off(cc.Node.EventType.TOUCH_START, this._onTableTouchBegan, this);
+            this.content.off(cc.Node.EventType.TOUCH_MOVE, this._onTableTouchMove, this);
+            this.content.off(cc.Node.EventType.TOUCH_END, this._onTableTouchEnded, this);
+            this.content.off(cc.Node.EventType.TOUCH_CANCEL, this._onTableTouchCancelled, this);
+            this.content.off(cc.Node.EventType.MOUSE_WHEEL, this._onMouseWheel, this, true);
+          }
+
+          this.node.off('size-changed', this._onViewSizeChanged, this);
+        }
+
+        _onShowGame() {
+          super._onShowGame();
+
+          this._handleCancelLogicForTableInteraction(null);
+        }
+
+        start() {
+          let cellCount = this._dataSource.numberOfCellsInTableView(this);
+
+          if (this._lastestCellCount != cellCount) {
+            this.reloadData();
+          } else if (!this.scrollToLeftTop(false)) {
+            this.scrollViewDidScroll(this);
+          }
+        }
+
+        _onMouseWheel(event, captureListeners) {
+          if (!this.enabledInHierarchy) {
+            return;
+          }
+
+          if (this._hasNestedViewGroup(event, captureListeners)) {
+            return;
+          }
+
+          const deltaMove = new cc.Vec2();
+          const wheelPrecision = -0.1;
+          const scrollY = event.getScrollY(); // cc.log(`_onMouseWheel: y = ${scrollY}`);
+
+          if (!this._stopMouseWheel && Math.abs(scrollY * wheelPrecision) < cc.EPSILON) {
+            return;
+          }
+
+          if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).VERTICAL) {
+            deltaMove.set(0, scrollY * wheelPrecision);
+          } else if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).HORIZONTAL) {
+            deltaMove.set(scrollY * wheelPrecision, 0);
+          }
+
+          let oldPosition = new cc.Vec2(this.content.position.x, this.content.position.y);
+          let newPosition = new cc.Vec2(this.content.position.x + deltaMove.x, this.content.position.y + deltaMove.y); // cc.log(`[Tableview] _onMouseWheel: deltaY = ${scrollY} - ${oldPosition} - ${newPosition}`);
+
+          if (this.setContentPosition(newPosition)) {
+            if (!this._dragging) {
+              this._dragging = true;
+              this._dragBeganPosition = oldPosition;
+
+              if (this._delegate && this._delegate.scrollViewWillBeginDragging) {
+                this._delegate.scrollViewWillBeginDragging(this);
+              }
+            }
+          }
+
+          this._gatherTouchMove(deltaMove);
+
+          this._mouseWheelEventElapsedTime = 0;
+
+          if (!this._stopMouseWheel) {
+            this._clearAutoScrollData();
+
+            this.schedule(this._checkMouseWheel, 1.0 / 60, NaN, 0);
+            this._stopMouseWheel = true;
+          }
+
+          this._stopPropagationIfTargetIsMe(event);
+        }
+
+        _checkMouseWheel(dt) {
+          const maxElapsedTime = 0.1;
+          this._mouseWheelEventElapsedTime += dt; // mouse wheel event is ended
+
+          if (this._mouseWheelEventElapsedTime > maxElapsedTime) {
+            // cc.log(`[Tableview] _onMouseWheel: stopMouseWheel`);
+            this.unschedule(this._checkMouseWheel);
+            this._stopMouseWheel = false;
+          }
+        }
+
+        _onTableTouchBegan(event) {
+          // cc.log(`[TableView] _onTableTouchBegan ${event.touch?.getLocation()} - ${event.touch?.getLocationInView()} - ${event.touch?.getUILocation()}`);
+          if (!this.enabledInHierarchy) return;
+          event.touch && this._handlePressLogicForTableInteraction(event.touch);
+          this.touchEnabled && event.stopPropagation();
+        }
+
+        _onTableTouchMove(event) {
+          // cc.log(`[TableView] _onTableTouchMove `);
+          if (!this.enabledInHierarchy) return;
+          event.touch && this._handleMoveLogicForTableInteraction(event.touch);
+          this.touchEnabled && event.stopPropagation();
+        }
+
+        _onTableTouchEnded(event) {
+          // cc.log(`[TableView] _onTableTouchEnded ${event.touch?.getLocation()} - ${event.touch?.getLocationInView()} - ${event.touch?.getUILocation()}`);
+          if (!this.enabledInHierarchy) return;
+          event.touch && this._handleReleaseLogicForTableInteraction(event.touch);
+          this.touchEnabled && event.stopPropagation();
+        }
+
+        _onTableTouchCancelled(event) {
+          // cc.log(`[TableView] _onTableTouchCancelled `);
+          if (!this.enabledInHierarchy) return;
+          event.touch && this._handleCancelLogicForTableInteraction(event.touch);
+          this.touchEnabled && event.stopPropagation();
+        } // protected _hasNestedViewGroup(event, captureListeners: any[]) {
+        //     if (this.interactionMode == BGTTableViewInteractionMode.CELL_DRAGGING) {
+        //         return false;
+        //     } else {
+        //         return super._hasNestedViewGroup(event, captureListeners);
+        //     }
+        // }
+
+
+        clearSelection() {
+          this._selectedIndices.splice(0, this._selectedIndices.length);
+        }
+
+        _handlePressLogicForTableInteraction(touch) {
+          if (this.interactionMode == VDTableViewInteractionMode.NONE) {
+            return;
+          }
+
+          if (this._highlightedTouchObj == null && this._highlightedIndex < 0) {
+            let localTouch3D = this.content.getComponent(cc.UITransform).convertToNodeSpaceAR(cc.v3(touch.getUILocation().x, touch.getUILocation().y, 0));
+            let localTouch = cc.v2(localTouch3D.x, -localTouch3D.y); // localTouch.y = this.content.getComponent(cc.UITransform)!.height - localTouch.y;
+
+            let index = this._indexFromOffset(localTouch);
+
+            if (index >= 0) {
+              let cell = this.cellAtIndex(index);
+
+              if (cell) {
+                let shouldHighlight = this._tableViewDelegate && this._tableViewDelegate.tableCellShouldHighlight ? this._tableViewDelegate.tableCellShouldHighlight(this, index) : true;
+
+                if (shouldHighlight) {
+                  this._setHighlightedForCell(cell, true);
+                }
+              }
+
+              this._highlightedIndex = index;
+              this._touchingIndex = index;
+              this._highlightedTouchObj = touch;
+            }
+          } else {
+            this._highlightedIndex = -1;
+            this._highlightedTouchObj = null;
+          }
+        }
+
+        _handleMoveLogicForTableInteraction(touch) {
+          if (this.interactionMode == VDTableViewInteractionMode.NONE) {
+            return;
+          }
+
+          let contenPos = cc.v2(this.content.position.x, this.content.position.y);
+          let deltaMove = contenPos.subtract(this._beginContentPosition);
+
+          if (deltaMove.length() > 8) {
+            if (this._highlightedIndex >= 0) {
+              let index = this._highlightedIndex;
+              let cell = this.cellAtIndex(index);
+
+              if (cell) {
+                this._setHighlightedForCell(cell, false);
+              }
+
+              this._highlightedIndex = -1;
+            }
+
+            this._touchingIndex = -1;
+          } else if (this._highlightedTouchObj == touch) {
+            if (this._highlightedIndex >= 0) {
+              let cell = this.cellAtIndex(this._highlightedIndex);
+
+              if (cell) {
+                if (this.node.getComponent(cc.UITransform).getBoundingBoxToWorld().contains(touch.getLocation())) {
+                  let localTouch3D = this.content.getComponent(cc.UITransform).convertToNodeSpaceAR(cc.v3(touch.getUILocation().x, touch.getUILocation().y, 0));
+                  let localTouch = cc.v2(localTouch3D.x, -localTouch3D.y); // localTouch.y = this.content.getComponent(cc.UITransform)!.height - localTouch.y;
+
+                  let tIndex = this._indexFromOffset(localTouch);
+
+                  if (tIndex != this._highlightedIndex) {
+                    this._setHighlightedForCell(cell, false);
+
+                    this._highlightedIndex = -1;
+                  } else {
+                    let shouldHighlight = this._tableViewDelegate && this._tableViewDelegate.tableCellShouldHighlight ? this._tableViewDelegate.tableCellShouldHighlight(this, this._highlightedIndex) : true;
+
+                    if (shouldHighlight) {
+                      this._setHighlightedForCell(cell, true);
+                    }
+                  }
+                } else {
+                  this._setHighlightedForCell(cell, false);
+
+                  this._highlightedIndex = -1;
+                }
+              }
+            } else if (this._touchingIndex >= 0) {
+              let cell = this.cellAtIndex(this._touchingIndex);
+
+              if (cell) {
+                if (this.node.getComponent(cc.UITransform).getBoundingBoxToWorld().contains(touch.getUILocation())) {
+                  let localTouch3D = this.content.getComponent(cc.UITransform).convertToNodeSpaceAR(cc.v3(touch.getUILocation().x, touch.getUILocation().y, 0));
+                  let localTouch = cc.v2(localTouch3D.x, -localTouch3D.y); // localTouch.y = this.content.getComponent(cc.UITransform)!.height - localTouch.y;
+
+                  let tIndex = this._indexFromOffset(localTouch);
+
+                  if (tIndex == this._touchingIndex) {
+                    let shouldHighlight = this._tableViewDelegate && this._tableViewDelegate.tableCellShouldHighlight ? this._tableViewDelegate.tableCellShouldHighlight(this, tIndex) : true;
+
+                    if (shouldHighlight) {
+                      this._highlightedIndex = this._touchingIndex;
+
+                      this._setHighlightedForCell(cell, true);
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        _handleReleaseLogicForTableInteraction(touch) {
+          if (this.interactionMode == VDTableViewInteractionMode.NONE) {
+            return;
+          }
+
+          if (this._highlightedTouchObj == touch) {
+            if (this._highlightedIndex >= 0) {
+              let cell = this.cellAtIndex(this._highlightedIndex);
+
+              if (cell) {
+                this._setHighlightedForCell(cell, false);
+              }
+
+              this._highlightedIndex = -1;
+            }
+
+            this._touchingIndex = -1;
+            let delta = touch.getLocation().clone().subtract(touch.getStartLocation());
+
+            if (delta.length() <= 8) {
+              this._onContentClick(touch);
+            }
+
+            this._highlightedTouchObj = null;
+          }
+        }
+
+        _handleCancelLogicForTableInteraction(touch) {
+          if (this.interactionMode == VDTableViewInteractionMode.NONE) {
+            return;
+          }
+
+          if (touch == null || this._highlightedTouchObj == touch) {
+            if (this._highlightedIndex >= 0) {
+              let cell = this.cellAtIndex(this._highlightedIndex);
+
+              if (cell) {
+                this._setHighlightedForCell(cell, false);
+              }
+
+              this._highlightedIndex = -1;
+            }
+
+            this._touchingIndex = -1;
+            this._highlightedTouchObj = null;
+          }
+        }
+
+        _setSelectedForCell(cell, selected, forceSelected = false) {
+          let cellComp = cell.getComponent(_crd && VDTableCell === void 0 ? (_reportPossibleCrUseOfVDTableCell({
+            error: Error()
+          }), VDTableCell) : VDTableCell);
+
+          if (cellComp && (forceSelected || cellComp.selected != selected)) {
+            cellComp.setSelected(selected);
+          }
+        }
+
+        _setHighlightedForCell(cell, highlighted, forceHighlighted = false) {
+          let cellComp = cell.getComponent(_crd && VDTableCell === void 0 ? (_reportPossibleCrUseOfVDTableCell({
+            error: Error()
+          }), VDTableCell) : VDTableCell);
+
+          if (cellComp && (forceHighlighted || cellComp.highlighted != highlighted)) {
+            cellComp.setHighlighted(highlighted);
+          }
+        }
+
+        selectCellAtIndex(index) {
+          if (index < 0 || index >= this._lastestCellCount) return;
+          if (this.interactionMode == VDTableViewInteractionMode.NONE || this.interactionMode == VDTableViewInteractionMode.CLICK || this._selectedIndices.indexOf(index) >= 0) return;
+
+          if (!this._tableViewDelegate || !this._tableViewDelegate.tableCellShouldSelect || this._tableViewDelegate.tableCellShouldSelect(this, index)) {
+            if (this.interactionMode == VDTableViewInteractionMode.SINGLE_SELECTION) {
+              if (this.selectedIndex != -1) {
+                this.deselectCellAtIndex(this.selectedIndex);
+              }
+            }
+
+            this._selectedIndices.push(index);
+
+            let cell = this.cellAtIndex(index);
+
+            if (cell) {
+              //cell is showing
+              this._setSelectedForCell(cell, true);
+            }
+
+            if (this._tableViewDelegate && this._tableViewDelegate.tableCellDidSelected) {
+              this._tableViewDelegate.tableCellDidSelected(this, index);
+            }
+          }
+        }
+
+        deselectCellAtIndex(index) {
+          if (this.interactionMode == VDTableViewInteractionMode.NONE || this.interactionMode == VDTableViewInteractionMode.CLICK) return;
+
+          let localIndex = this._selectedIndices.indexOf(index);
+
+          if (localIndex < 0) return;
+
+          this._selectedIndices.splice(localIndex, 1);
+
+          if (this._tableViewDelegate && this._tableViewDelegate.tableCellWillDeselected) {
+            this._tableViewDelegate.tableCellWillDeselected(this, index);
+          }
+
+          let cell = this.cellAtIndex(index);
+
+          if (cell) {
+            //cell is showing
+            this._setSelectedForCell(cell, false);
+          }
+        }
+
+        _onContentClick(touch) {
+          // cc.log(`_onContentClick `);
+          if (this.interactionMode != VDTableViewInteractionMode.NONE) {
+            let localTouch3D = this.content.getComponent(cc.UITransform).convertToNodeSpaceAR(cc.v3(touch.getUILocation().x, touch.getUILocation().y, 0));
+            let localTouch = cc.v2(localTouch3D.x, -localTouch3D.y);
+
+            let index = this._indexFromOffset(localTouch);
+
+            let cell = this.cellAtIndex(index);
+
+            if (cell) {
+              if (this.interactionMode == VDTableViewInteractionMode.CLICK) {
+                if (this._tableViewDelegate && this._tableViewDelegate.tableCellClicked) {
+                  this._tableViewDelegate.tableCellClicked(this, cell, index);
+                }
+              } else if (this.interactionMode == VDTableViewInteractionMode.SINGLE_SELECTION) {
+                if (this._selectedIndices.length == 0) {
+                  if (!this._tableViewDelegate || !this._tableViewDelegate.tableCellShouldSelect || this._tableViewDelegate.tableCellShouldSelect(this, index)) {
+                    this._selectedIndices.push(index);
+
+                    this._setSelectedForCell(cell, true);
+
+                    if (this._tableViewDelegate && this._tableViewDelegate.tableCellDidSelected) {
+                      this._tableViewDelegate.tableCellDidSelected(this, index);
+                    }
+                  }
+                } else {
+                  if (this._selectedIndices.length == 1) {
+                    let curIndex = this._selectedIndices[0];
+
+                    if (curIndex != index) {
+                      if (!this._tableViewDelegate || !this._tableViewDelegate.tableCellShouldSelect || this._tableViewDelegate.tableCellShouldSelect(this, index)) {
+                        this._selectedIndices.pop();
+
+                        if (this._tableViewDelegate && this._tableViewDelegate.tableCellWillDeselected) {
+                          this._tableViewDelegate.tableCellWillDeselected(this, curIndex);
+                        }
+
+                        let curCell = this.cellAtIndex(curIndex);
+
+                        if (curCell) {
+                          this._setSelectedForCell(curCell, false);
+                        }
+
+                        this._selectedIndices.push(index);
+
+                        this._setSelectedForCell(cell, true);
+
+                        if (this._tableViewDelegate && this._tableViewDelegate.tableCellDidSelected) {
+                          this._tableViewDelegate.tableCellDidSelected(this, index);
+                        }
+                      }
+                    } else {
+                      this._tableViewDelegate && this._tableViewDelegate.tableClickOnSelectedCell && this._tableViewDelegate.tableClickOnSelectedCell(this, index);
+                    }
+                  } else {
+                    throw "table view selection logic error";
+                  }
+                }
+              } else if (this.interactionMode == VDTableViewInteractionMode.MULTIPLE_SELECTION) {
+                if (this._selectedIndices.length == 0) {
+                  if (!this._tableViewDelegate || !this._tableViewDelegate.tableCellShouldSelect || this._tableViewDelegate.tableCellShouldSelect(this, index)) {
+                    this._selectedIndices.push(index);
+
+                    this._setSelectedForCell(cell, true);
+
+                    if (this._tableViewDelegate && this._tableViewDelegate.tableCellDidSelected) {
+                      this._tableViewDelegate.tableCellDidSelected(this, index);
+                    }
+                  }
+                } else {
+                  let localIndex = this._selectedIndices.indexOf(index);
+
+                  if (localIndex >= 0) {
+                    this._selectedIndices.splice(localIndex, 1);
+
+                    if (this._tableViewDelegate && this._tableViewDelegate.tableCellWillDeselected) {
+                      this._tableViewDelegate.tableCellWillDeselected(this, index);
+                    }
+
+                    this._setSelectedForCell(cell, false);
+                  } else {
+                    if (!this._tableViewDelegate || !this._tableViewDelegate.tableCellShouldSelect || this._tableViewDelegate.tableCellShouldSelect(this, index)) {
+                      this._selectedIndices.push(index);
+
+                      this._setSelectedForCell(cell, true);
+
+                      if (this._tableViewDelegate && this._tableViewDelegate.tableCellDidSelected) {
+                        this._tableViewDelegate.tableCellDidSelected(this, index);
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        getStartIndex() {
+          let startIdx = this._indexFromOffset(cc.v2(Math.abs(this.offsetMinX), Math.abs(this.offsetMaxY)));
+
+          return startIdx;
+        }
+
+        getEndIndex() {
+          let dX = 0;
+          let dY = 0;
+
+          if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).VERTICAL) {
+            dX = this._cellSize.width - 0.1;
+          } else if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).HORIZONTAL) {
+            dY = this._cellSize.height - 0.1;
+          }
+
+          let endIdx = this._indexFromOffset(cc.v2(Math.abs(this.offsetMinX) + this.node.getComponent(cc.UITransform).width - dX, Math.abs(this.offsetMaxY) + this.node.getComponent(cc.UITransform).height - dY));
+
+          if (endIdx < 0 || endIdx > this._lastestCellCount - 1) {
+            endIdx = this._lastestCellCount - 1;
+          }
+
+          return endIdx;
+        }
+
+        scrollToIndex(index, animated = true) {
+          let offset = this._offsetFromIndex(index);
+
+          let x = -this.content.getComponent(cc.UITransform).anchorX * this.content.getComponent(cc.UITransform).width + offset.x + this.node.getComponent(cc.UITransform).anchorX * this.node.getComponent(cc.UITransform).width;
+          let y = (1.0 - this.content.getComponent(cc.UITransform).anchorY) * this.content.getComponent(cc.UITransform).height - offset.y - (1.0 - this.node.getComponent(cc.UITransform).anchorY) * this.node.getComponent(cc.UITransform).height;
+          this.scrollTo(cc.v2(x, y), animated);
+        }
+
+        _updateCellCount() {
+          this._lastestCellCount = this._dataSource.numberOfCellsInTableView(this);
+          return this._lastestCellCount;
+        }
+
+        scrollViewDidScroll(scrollView) {
+          let countOfItems = this._lastestCellCount;
+
+          if (countOfItems <= 0) {
+            return;
+          }
+
+          this._startIdx = this.getStartIndex();
+          this._endIdx = this.getEndIndex();
+
+          if (this._isUsedCellsDirty) {
+            this._isUsedCellsDirty = false;
+
+            this._cellsUsed.sort(function (a, b) {
+              return parseInt(a.name) - parseInt(b.name);
+            });
+          }
+
+          let maxIdx = countOfItems - 1;
+
+          if (this._cellsUsed.length > 0) {
+            let cell = this._cellsUsed[0];
+            let idx = parseInt(cell.name);
+
+            while (idx < this._startIdx) {
+              this._moveCellOutOfSight(cell, 0);
+
+              if (this._cellsUsed.length > 0) {
+                cell = this._cellsUsed[0];
+                idx = parseInt(cell.name);
+              } else {
+                break;
+              }
+            }
+          }
+
+          if (this._cellsUsed.length > 0) {
+            let cell = this._cellsUsed[this._cellsUsed.length - 1];
+            let idx = parseInt(cell.name);
+
+            while (idx <= maxIdx && idx > this._endIdx) {
+              this._moveCellOutOfSight(cell, this._cellsUsed.length - 1);
+
+              if (this._cellsUsed.length > 0) {
+                cell = this._cellsUsed[this._cellsUsed.length - 1];
+                idx = parseInt(cell.name);
+              } else {
+                break;
+              }
+            }
+          }
+
+          for (let i = this._startIdx; i <= this._endIdx; i++) {
+            if (this._indices.has(i)) {
+              continue;
+            }
+
+            this.updateCellAtIndex(i);
+          }
+
+          if (this._tableViewDelegate && this._tableViewDelegate.scrollViewDidScroll) {
+            this._tableViewDelegate.scrollViewDidScroll(this);
+          }
+        }
+
+        updateCellAtIndex(idx) {
+          if (idx < 0 || idx >= this._lastestCellCount) {
+            return;
+          }
+
+          let cell = this.cellAtIndex(idx);
+
+          if (cell) {
+            this._moveCellOutOfSight(cell);
+          }
+
+          if (idx >= this._startIdx && idx <= this._endIdx) {
+            cell = this._dataSource.tableCellAtIndex(this, idx);
+
+            this._setIndexForCell(idx, cell);
+
+            this._addCellIfNecessary(cell);
+
+            switch (this.interactionMode) {
+              case VDTableViewInteractionMode.SINGLE_SELECTION:
+              case VDTableViewInteractionMode.MULTIPLE_SELECTION:
+                this._setSelectedForCell(cell, this._selectedIndices.indexOf(idx) >= 0, true);
+
+                break;
+
+              default:
+                break;
+            }
+          }
+        }
+
+        _addCellIfNecessary(cell) {
+          if (cell.parent != this.content) {
+            this.content.addChild(cell);
+          }
+
+          this._cellsUsed.push(cell);
+
+          this._indices.add(parseInt(cell.name));
+
+          this._isUsedCellsDirty = true;
+        }
+
+        cellAtIndex(idx) {
+          if (this._indices.has(idx)) {
+            for (let cell of this._cellsUsed) {
+              if (parseInt(cell.name) == idx) {
+                return cell;
+              }
+            }
+          }
+
+          return null;
+        }
+
+        reloadData() {
+          if (!this._isOnLoadCalled) {
+            return;
+          }
+
+          for (let cell of this._cellsUsed) {
+            if (this._tableViewDelegate && this._tableViewDelegate.tableCellWillRecycle) {
+              this._tableViewDelegate.tableCellWillRecycle(this, cell, parseInt(cell.name));
+            }
+
+            this._cellsFreed.put(cell);
+
+            cell.name = "-1";
+
+            if (cell.parent == this.content) {
+              this.content.removeChild(cell);
+            }
+          }
+
+          this._indices.clear();
+
+          this._cellsUsed.splice(0, this._cellsUsed.length);
+
+          this._isUsedCellsDirty = true;
+
+          this._updateContentSize();
+
+          this.scrollViewDidScroll(this);
+        }
+
+        dequeueCell() {
+          let cell = null;
+
+          if (this._cellsFreed.size() == 0) {
+            cell = cc.instantiate(this.tableCell);
+            cell.name = "-1";
+          } else {
+            cell = this._cellsFreed.get();
+          }
+
+          return cell;
+        }
+
+        _indexFromOffset(offset) {
+          if (offset.x < 0 || offset.x > this._realContentSize.width || offset.y < 0 || offset.y > this._realContentSize.height) {
+            return -1;
+          }
+
+          let index = -1;
+          let cellNum = this._lastestCellCount;
+          let maxIdx = cellNum - 1;
+          let size = this._cellSize;
+
+          if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).VERTICAL) {
+            let idxX = Math.floor(offset.x / size.width);
+            let idxY = Math.floor(offset.y / size.height);
+
+            if (this.fillOrder == VDTableViewFillOrder.LEFT_TO_RIGHT__TOP_TO_BOTTOM) {
+              if (idxX >= this._cols) {
+                return -1;
+              }
+
+              index = idxY * this._cols + idxX;
+            } else {
+              if (idxY >= this._rows) {
+                return -1;
+              }
+
+              index = idxX * this._rows + idxY;
+            }
+          } else if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).HORIZONTAL) {
+            let idxX = Math.floor(offset.x / size.width);
+            let idxY = Math.floor(offset.y / size.height);
+
+            if (this.fillOrder == VDTableViewFillOrder.LEFT_TO_RIGHT__TOP_TO_BOTTOM) {
+              if (idxX >= this._cols) {
+                return -1;
+              }
+
+              index = idxY * this._cols + idxX;
+            } else {
+              if (idxY >= this._rows) {
+                return -1;
+              }
+
+              index = idxX * this._rows + idxY;
+            }
+          }
+
+          if (index >= 0 && index <= maxIdx) {
+            return index;
+          } else {
+            return -1;
+          }
+        }
+
+        _offsetFromIndex(index) {
+          let offset = cc.v2(0, 0); // cc.Vec2.ZERO;
+
+          let cellSize = this._cellSize;
+
+          if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).VERTICAL) {
+            let idxX = 0;
+            let idxY = 0;
+
+            if (this.fillOrder == VDTableViewFillOrder.LEFT_TO_RIGHT__TOP_TO_BOTTOM) {
+              idxY = Math.floor(index / this._cols);
+              idxX = index % this._cols;
+            } else {
+              idxX = Math.floor(index / this._rows);
+              idxY = index % this._rows;
+            }
+
+            offset = cc.v2(idxX * cellSize.width, idxY * cellSize.height);
+          } else if (this.direction == (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+            error: Error()
+          }), VDScrollDirection) : VDScrollDirection).HORIZONTAL) {
+            let idxX = 0;
+            let idxY = 0;
+
+            if (this.fillOrder == VDTableViewFillOrder.LEFT_TO_RIGHT__TOP_TO_BOTTOM) {
+              idxY = Math.floor(index / this._cols);
+              idxX = index % this._cols;
+            } else {
+              idxX = Math.floor(index / this._rows);
+              idxY = index % this._rows;
+            }
+
+            offset = cc.v2(idxX * cellSize.width, idxY * cellSize.height);
+          }
+
+          return offset;
+        }
+
+        _moveCellOutOfSight(cell, idx = -1) {
+          if (this._tableViewDelegate && this._tableViewDelegate.tableCellWillRecycle) {
+            this._tableViewDelegate.tableCellWillRecycle(this, cell, parseInt(cell.name));
+          }
+
+          this._cellsFreed.put(cell);
+
+          if (idx >= 0) {
+            this._cellsUsed.splice(idx, 1);
+          } else {
+            let localIndex = this._cellsUsed.indexOf(cell);
+
+            if (localIndex >= 0) {
+              this._cellsUsed.splice(localIndex, 1);
+            }
+          }
+
+          this._isUsedCellsDirty = true;
+
+          this._indices.delete(parseInt(cell.name));
+
+          cell.name = "-1";
+
+          if (cell.parent == this.content) {
+            this.content.removeChild(cell);
+          }
+        }
+
+        _setIndexForCell(index, cell) {
+          let offset = this._offsetFromIndex(index);
+
+          let x = -this.content.getComponent(cc.UITransform).anchorX * this.content.getComponent(cc.UITransform).width + offset.x + this._cellAnchor.x * this._cellSize.width;
+
+          let y = (1.0 - this.content.getComponent(cc.UITransform).anchorY) * this.content.getComponent(cc.UITransform).height - offset.y - (1.0 - this._cellAnchor.y) * this._cellSize.height;
+
+          cell.setPosition(cc.v3(x, y, 0));
+          cell.name = index.toString();
+        }
+
+        _onViewSizeChanged() {
+          this._updateContentSize();
+
+          if (this._isOnLoadCalled && this.enabledInHierarchy) {
+            this.reloadData();
+          }
+        }
+
+        _updateGridData() {
+          this._updateCellCount();
+
+          let cellsCount = this._lastestCellCount;
+
+          if (cellsCount > 0) {
+            switch (this.direction) {
+              case (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+                error: Error()
+              }), VDScrollDirection) : VDScrollDirection).HORIZONTAL:
+                {
+                  this._rows = Math.min(cellsCount, Math.floor(Math.max(this.node.getComponent(cc.UITransform).height, this._cellSize.height) / this._cellSize.height));
+                  this._cols = Math.ceil(cellsCount / this._rows);
+                  this._realContentSize = cc.size(this._cols * this._cellSize.width, this._rows * this._cellSize.height);
+                }
+                break;
+
+              case (_crd && VDScrollDirection === void 0 ? (_reportPossibleCrUseOfVDScrollDirection({
+                error: Error()
+              }), VDScrollDirection) : VDScrollDirection).VERTICAL:
+                {
+                  this._cols = Math.min(cellsCount, Math.floor(Math.max(this.node.getComponent(cc.UITransform).width, this._cellSize.width) / this._cellSize.width));
+                  this._rows = Math.ceil(cellsCount / this._cols);
+                  this._realContentSize = cc.size(this._cols * this._cellSize.width, this._rows * this._cellSize.height);
+                }
+                break;
+
+              default:
+                break;
+            }
+          } else {
+            this._realContentSize = cc.Size.ZERO;
+            this._rows = this._cols = 0;
+          }
+        }
+
+        _updateContentSize() {
+          this._updateGridData(); // var e = this._realContentSize;
+
+
+          let maxWidth = Math.max(this.node.getComponent(cc.UITransform).width, this._realContentSize.width);
+          let maxHeight = Math.max(this.node.getComponent(cc.UITransform).height, this._realContentSize.height);
+          this._realContentSize = cc.size(maxWidth, maxHeight);
+          this.content.getComponent(cc.UITransform).contentSize.equals(this._realContentSize) || (this.content.getComponent(cc.UITransform).setContentSize(this._realContentSize), this.enabledInHierarchy || this._recalculateBoundary()); // cc.log(`contentSize: ${this.content.getComponent(cc.UITransform)!.contentSize}`);
+          // cc.log(`_realContentSize: ${this._realContentSize}`);
+          // cc.log(`node: ${this.node.getComponent(cc.UITransform)!.contentSize}`);
+        }
+
+      }, _class3._cellPoolCache = {}, _class3), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "fillOrder", [_dec], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return VDTableViewFillOrder.LEFT_TO_RIGHT__TOP_TO_BOTTOM;
+        }
+      }), _descriptor2 = _applyDecoratedDescriptor(_class2.prototype, "interactionMode", [_dec2], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return VDTableViewInteractionMode.NONE;
+        }
+      }), _descriptor3 = _applyDecoratedDescriptor(_class2.prototype, "cellPagingEnabled", [_dec3], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return false;
+        }
+      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "numberOfPagingCell", [_dec4], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return 1;
+        }
+      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "tableCell", [_dec5], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      })), _class2)) || _class));
+
+      _cclegacy._RF.pop();
+
+      _crd = false;
+    }
+  };
+});
+//# sourceMappingURL=e9baabe891389b7964e03e607904e91fff052403.js.map

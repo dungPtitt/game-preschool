@@ -1,0 +1,2058 @@
+{
+  "7aa56b10-5dbe-49ca-809a-41cadf7b0744": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "65ae15ca-9c0c-4002-9a73-cbe21fa7d6f4": {
+    "url": "db://assets/vd-boot",
+    "value": {}
+  },
+  "c2a615a9-08f0-40d8-b2ff-f7526a09476e": {
+    "url": "db://assets/vd-framework",
+    "value": {}
+  },
+  "2458b3fe-4396-4e55-8639-9b41acd05249": {
+    "url": "db://assets/vd-games",
+    "value": {}
+  },
+  "2d61e801-00a5-4659-8bec-6f0ab3a849ea": {
+    "url": "db://assets/vd-loading",
+    "value": {}
+  },
+  "fdd4bc20-9721-4122-9b00-aa5cb1c732b3": {
+    "url": "db://assets/vd-lobby",
+    "value": {}
+  },
+  "1f7b5e66-ea5a-4e7f-963f-65874d69cd68": {
+    "url": "db://assets/vd-mock",
+    "value": {}
+  },
+  "e2dc2562-27a0-4c7f-afdc-2899b5c75ab9": {
+    "url": "db://assets/resources/images",
+    "value": {}
+  },
+  "ba272a62-d908-4346-9aa3-83e0c4f55696": {
+    "url": "db://assets/vd-framework/async-task",
+    "value": {}
+  },
+  "eb6ffc71-ce82-4e1a-ab5e-93c8567af759": {
+    "url": "db://assets/vd-framework/audio",
+    "value": {}
+  },
+  "4e304cef-cb7c-4743-b687-3206627162c5": {
+    "url": "db://assets/vd-framework/common",
+    "value": {}
+  },
+  "698f89db-df3b-404d-a49a-ea372a079aa7": {
+    "url": "db://assets/vd-framework/network",
+    "value": {}
+  },
+  "2c2f5682-7a2d-4219-af38-ee8edb9227c0": {
+    "url": "db://assets/vd-framework/plugins",
+    "value": {}
+  },
+  "744acc01-f493-4c33-a48f-11f6db6c806d": {
+    "url": "db://assets/vd-framework/ui",
+    "value": {}
+  },
+  "677ae465-4e54-4373-9d5b-66e9e71e1942": {
+    "url": "db://assets/vd-framework/utils",
+    "value": {}
+  },
+  "780045e1-74c0-45f7-8743-ca5b0e7b48bc": {
+    "url": "db://assets/vd-games/pvp-domino",
+    "value": {}
+  },
+  "3ae60e04-ab49-4974-91ce-dbc046e0bab0": {
+    "url": "db://assets/vd-games/pvp-pikachu",
+    "value": {}
+  },
+  "998cdb00-0444-42b0-8ff2-cb9bae94e382": {
+    "url": "db://assets/vd-loading/res",
+    "value": {}
+  },
+  "3c725d1f-018e-48bb-93d9-4cbcda1c55e9": {
+    "url": "db://assets/vd-loading/script",
+    "value": {}
+  },
+  "e840ba6e-3015-41c8-abf0-e89dbb9753fd": {
+    "url": "db://assets/resources/images/bgr",
+    "value": {}
+  },
+  "10e2acde-9544-499a-b13f-ba72de036f54": {
+    "url": "db://assets/vd-games/pvp-domino/res",
+    "value": {}
+  },
+  "696a7be8-1dae-4033-8e63-a3c137d6e759": {
+    "url": "db://assets/vd-games/pvp-domino/script",
+    "value": {}
+  },
+  "0eeea893-de69-483f-b5c9-3e2936da0461": {
+    "url": "db://assets/vd-games/pvp-pikachu/res",
+    "value": {}
+  },
+  "24c20783-b9a3-491c-ae81-94eecb41c3bf": {
+    "url": "db://assets/vd-games/pvp-pikachu/script",
+    "value": {}
+  },
+  "fa128f35-5f63-4667-8b9d-ee2d07895115": {
+    "url": "db://assets/vd-games/pvp-domino/res/anims",
+    "value": {}
+  },
+  "03832a84-3003-4fc7-9b26-f13e86261380": {
+    "url": "db://assets/vd-games/pvp-domino/res/fonts",
+    "value": {}
+  },
+  "48a0f59a-6308-46af-8eba-70b2c71f47dd": {
+    "url": "db://assets/vd-games/pvp-domino/res/images",
+    "value": {}
+  },
+  "79b86fd4-bdd7-43b9-b0e6-2376ce23b9ac": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs",
+    "value": {}
+  },
+  "263c7a2d-2696-44ba-b044-0da82fc8c3ac": {
+    "url": "db://assets/vd-games/pvp-domino/res/sounds",
+    "value": {}
+  },
+  "af73590a-5cda-4900-afe2-a1833c079ad1": {
+    "url": "db://assets/vd-games/pvp-domino/script/common",
+    "value": {}
+  },
+  "df3f2d58-538d-4196-abf2-9884d9ef23b6": {
+    "url": "db://assets/vd-games/pvp-domino/script/popups",
+    "value": {}
+  },
+  "5f330c91-8eb1-49da-8326-cfe0b7f4a6d9": {
+    "url": "db://assets/vd-games/pvp-domino/script/screens",
+    "value": {}
+  },
+  "30824042-c538-4fa6-8b94-4aa12ab9585e": {
+    "url": "db://assets/vd-games/pvp-domino/res/anims/Cloud",
+    "value": {}
+  },
+  "3a14c8b0-93b1-4841-84dc-66a0076803fb": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/bgr",
+    "value": {}
+  },
+  "9901ce27-49c1-4bdf-8438-f35878b46130": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common",
+    "value": {}
+  },
+  "581c6e0c-60fa-4782-9cf3-f84e68283935": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/popup",
+    "value": {}
+  },
+  "9541ae05-2292-4080-adb1-f8799159f9a6": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/screen",
+    "value": {}
+  },
+  "e520727f-6432-48ac-822d-f3988d28bad3": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/transition",
+    "value": {}
+  },
+  "31080a66-9b32-49fc-ae64-2dda6d974017": {
+    "url": "db://assets/vd-games/pvp-domino/res/sounds/bgm",
+    "value": {}
+  },
+  "254b9948-8129-452d-b3fd-9c4a09960306": {
+    "url": "db://assets/vd-games/pvp-domino/res/sounds/sfx",
+    "value": {}
+  },
+  "bb6e200e-134c-48a9-94da-58b1def66e35": {
+    "url": "db://assets/vd-games/pvp-domino/script/popups/table_view",
+    "value": {}
+  },
+  "cb15ed2d-b8ab-47a9-a8cb-490bef8f8e3d": {
+    "url": "db://assets/vd-boot/StartScene.ts",
+    "value": {}
+  },
+  "d957aed6-795e-4608-bbcd-32a786840fb4": {
+    "url": "db://assets/vd-mock/mock_config.ts",
+    "value": {}
+  },
+  "a90463bc-e26e-4d8c-8470-5910953ada96": {
+    "url": "db://assets/vd-framework/async-task/VDAsyncTaskMgr.ts",
+    "value": {}
+  },
+  "beeaed24-3043-47b3-a61e-5c747f8fa6e0": {
+    "url": "db://assets/vd-framework/async-task/VDBaseTask.ts",
+    "value": {}
+  },
+  "cd7be967-c2d0-432d-b1af-302d0912aa7f": {
+    "url": "db://assets/vd-framework/async-task/VDParallelTask.ts",
+    "value": {}
+  },
+  "c7e21317-9e56-48d4-9d26-f7f5a1cdf8f2": {
+    "url": "db://assets/vd-framework/async-task/VDSequenceTask.ts",
+    "value": {}
+  },
+  "33795dc7-e13e-4464-9552-c0cec9450774": {
+    "url": "db://assets/vd-framework/async-task/VDTaskContainer.ts",
+    "value": {}
+  },
+  "25081988-8ee2-406c-8687-d9931720f779": {
+    "url": "db://assets/vd-framework/async-task/VDTimelineTaskMgr.ts",
+    "value": {}
+  },
+  "7c110d1b-8761-48d6-9f22-6ca5d54b8a9a": {
+    "url": "db://assets/vd-framework/audio/VDAudio.ts",
+    "value": {}
+  },
+  "ff32d3f7-8f1c-4463-8efa-ca5131d5c462": {
+    "url": "db://assets/vd-framework/audio/VDAudioManager.ts",
+    "value": {}
+  },
+  "4f7490e3-40b8-4cbf-ab8f-6775c0e1f3b2": {
+    "url": "db://assets/vd-framework/audio/VDAudioNativeManager.ts",
+    "value": {}
+  },
+  "273a4847-7d2f-4c2d-a2d8-03a199b3e11c": {
+    "url": "db://assets/vd-framework/audio/VDAudioWebManager.ts",
+    "value": {}
+  },
+  "a58930d1-6810-479e-930f-f51db36bd0e8": {
+    "url": "db://assets/vd-framework/common/VDBaseDirector.ts",
+    "value": {}
+  },
+  "fde47f38-d1ce-4b77-8499-3def82e5a806": {
+    "url": "db://assets/vd-framework/common/VDEventListener.ts",
+    "value": {}
+  },
+  "3e5189e1-a422-471c-98a1-6e15bd485349": {
+    "url": "db://assets/vd-framework/common/VDGameConfig.ts",
+    "value": {}
+  },
+  "446ee467-054e-4e37-989a-72d02a3330fd": {
+    "url": "db://assets/vd-framework/common/VDGameLoop.ts",
+    "value": {}
+  },
+  "b1012327-ab3a-4e48-a34c-6c515fa060c8": {
+    "url": "db://assets/vd-framework/common/VDLocalDataManager.ts",
+    "value": {}
+  },
+  "f16726c4-e215-4414-84c1-a2c77c7c95bf": {
+    "url": "db://assets/vd-framework/common/VDPortraitCanvasResize.ts",
+    "value": {}
+  },
+  "10c8a4a7-1d60-41a1-845d-1c421b67e144": {
+    "url": "db://assets/vd-framework/ui/VDBasePopup.ts",
+    "value": {}
+  },
+  "114d5dde-64f7-482a-b573-1c045712d0a6": {
+    "url": "db://assets/vd-framework/ui/VDBaseScreen.ts",
+    "value": {}
+  },
+  "758034b7-9c66-4e87-a888-ba6c06079a30": {
+    "url": "db://assets/vd-framework/ui/VDControlEvent.ts",
+    "value": {}
+  },
+  "28df31f7-c27e-4d30-8daf-d90cb38e8e57": {
+    "url": "db://assets/vd-framework/ui/VDScreenManager.ts",
+    "value": {}
+  },
+  "6b39a6bb-727a-45e5-879d-ef5c99c9f2c8": {
+    "url": "db://assets/vd-framework/ui/VDScrollBar.ts",
+    "value": {}
+  },
+  "c5d2cd45-9f51-4526-9b6c-35a9e417100d": {
+    "url": "db://assets/vd-framework/ui/VDScrollContent.ts",
+    "value": {}
+  },
+  "89eae07d-f1e4-4177-83a4-faf8eb143e77": {
+    "url": "db://assets/vd-framework/ui/VDScrollView.ts",
+    "value": {}
+  },
+  "f57a0046-8eb7-4cf9-bdbd-44f8f2c4f0be": {
+    "url": "db://assets/vd-framework/ui/VDTabbar.ts",
+    "value": {}
+  },
+  "922026b6-8e3c-48ba-a021-172bbca9f155": {
+    "url": "db://assets/vd-framework/ui/VDTabbarItem.ts",
+    "value": {}
+  },
+  "f69fa7c8-7567-4318-af49-1f45d0ebe2e1": {
+    "url": "db://assets/vd-framework/ui/VDTableCell.ts",
+    "value": {}
+  },
+  "abdcf4f5-bb43-469a-998e-df4daf5d00bb": {
+    "url": "db://assets/vd-framework/ui/VDTableView.ts",
+    "value": {}
+  },
+  "d10695c2-a2af-4c76-97aa-023e9b2e6a07": {
+    "url": "db://assets/vd-framework/ui/VDTouchHandler.ts",
+    "value": {}
+  },
+  "0ab44c1c-74cf-4061-87bd-f69649b12340": {
+    "url": "db://assets/vd-framework/ui/VDViewGroup.ts",
+    "value": {}
+  },
+  "7a6d6789-9c80-4a51-b1b1-81e66038e858": {
+    "url": "db://assets/vd-framework/utils/VDExtensions.ts",
+    "value": {}
+  },
+  "f61f1fac-7f95-4037-ba0f-5e87a813a475": {
+    "url": "db://assets/vd-framework/utils/VDNodeScaleByBone.ts",
+    "value": {}
+  },
+  "effc4fc4-6144-4718-ac23-06a1ae58f355": {
+    "url": "db://assets/vd-framework/utils/VDUtils.ts",
+    "value": {}
+  },
+  "0a49bb49-6293-4fe2-952d-bb98446aef00": {
+    "url": "db://assets/vd-games/pvp-domino/script/dm_Scene.ts",
+    "value": {}
+  },
+  "43db18a9-ba6a-4e3e-8368-0c6e23117f9e": {
+    "url": "db://assets/vd-games/pvp-domino/script/common/dm_Config.ts",
+    "value": {}
+  },
+  "19697480-a0af-4896-a2f6-bc3a2baad456": {
+    "url": "db://assets/vd-games/pvp-domino/script/common/dm_Director.ts",
+    "value": {}
+  },
+  "b85020f5-1079-4ebc-816b-858f3b48c27c": {
+    "url": "db://assets/vd-games/pvp-domino/script/popups/dm_Popup1.ts",
+    "value": {}
+  },
+  "52a2c730-f14b-45ef-a67f-03890c48f600": {
+    "url": "db://assets/vd-games/pvp-domino/script/popups/dm_PopupNotify.ts",
+    "value": {}
+  },
+  "c873c463-29cb-44bf-af37-631d8b55eec5": {
+    "url": "db://assets/vd-games/pvp-domino/script/screens/dm_LoadingScreen.ts",
+    "value": {}
+  },
+  "fc87ff73-076b-4ba3-a840-d0cf899d1bd2": {
+    "url": "db://assets/vd-games/pvp-domino/script/screens/dm_PlayScreen.ts",
+    "value": {}
+  },
+  "820a6526-7620-4eb7-ad9a-9ed1122b0991": {
+    "url": "db://assets/vd-games/pvp-domino/script/screens/dm_PlayScreen2.ts",
+    "value": {}
+  },
+  "223d642a-763e-45a8-8682-cd00d9652a00": {
+    "url": "db://assets/vd-games/pvp-domino/script/screens/dm_PlayScreen3.ts",
+    "value": {}
+  },
+  "c9c87c87-8cee-46a3-8e3e-32f617c634ef": {
+    "url": "db://assets/vd-games/pvp-domino/script/popups/table_view/dm_Item_TableView.ts",
+    "value": {}
+  },
+  "98bb48d9-9493-41fb-b1df-0e3b57000427": {
+    "url": "db://assets/vd-games/pvp-domino/script/popups/table_view/dm_TableView.ts",
+    "value": {}
+  },
+  "fc3c5944-03ea-49ff-9194-231e2f9ee56e": {
+    "url": "db://assets/vd-boot/StartScene.scene",
+    "value": {}
+  },
+  "c6fc2ce1-e7ba-4267-b153-d79c38977e54": {
+    "url": "db://assets/vd-framework/plugins/howler.min.js",
+    "value": {}
+  },
+  "f003f78a-c18a-49b4-afe2-1f8df294b9b1": {
+    "url": "db://assets/vd-games/pvp-domino/res/dm_Scene.scene",
+    "value": {}
+  },
+  "4d6f0983-d68c-40d4-898c-f2a641ca65ce": {
+    "url": "db://assets/resources/images/bgr/bg_popup.png",
+    "value": {}
+  },
+  "b0c1b700-3b20-4846-90c3-754348c212b9": {
+    "url": "db://assets/resources/images/bgr/default_sprite_splash.png",
+    "value": {}
+  },
+  "73167baf-b161-4ce4-adcf-3ef2fc693352": {
+    "url": "db://assets/vd-games/pvp-domino/res/fonts/fnt_jackpot_number.fnt",
+    "value": {}
+  },
+  "a869c7e0-5d41-4844-802f-ac23d5f453b4": {
+    "url": "db://assets/vd-games/pvp-domino/res/fonts/fnt_jackpot_number.png",
+    "value": {}
+  },
+  "88dd8625-1082-413a-a324-da15ce3c1b5b": {
+    "url": "db://assets/vd-games/pvp-domino/res/anims/Cloud/Clound.atlas",
+    "value": {}
+  },
+  "6e3a9d1c-1551-40f3-960e-629c055e9007": {
+    "url": "db://assets/vd-games/pvp-domino/res/anims/Cloud/Clound.json",
+    "value": {
+      "depends": [
+        "4f8c96d2-66bd-4d35-a103-daeaf2489f48@6c48a"
+      ]
+    }
+  },
+  "4f8c96d2-66bd-4d35-a103-daeaf2489f48": {
+    "url": "db://assets/vd-games/pvp-domino/res/anims/Cloud/Clound.png",
+    "value": {}
+  },
+  "b0c1b700-3b20-4846-90c3-754348c212b9@6c48a": {
+    "url": "db://assets/resources/images/bgr/default_sprite_splash.png@6c48a",
+    "value": {
+      "depends": [
+        "b0c1b700-3b20-4846-90c3-754348c212b9"
+      ]
+    }
+  },
+  "4d6f0983-d68c-40d4-898c-f2a641ca65ce@6c48a": {
+    "url": "db://assets/resources/images/bgr/bg_popup.png@6c48a",
+    "value": {
+      "depends": [
+        "4d6f0983-d68c-40d4-898c-f2a641ca65ce"
+      ]
+    }
+  },
+  "b0c1b700-3b20-4846-90c3-754348c212b9@f9941": {
+    "url": "db://assets/resources/images/bgr/default_sprite_splash.png@f9941",
+    "value": {
+      "depends": [
+        "b0c1b700-3b20-4846-90c3-754348c212b9@6c48a"
+      ]
+    }
+  },
+  "1363bfbb-aa4e-46f6-b798-7704a1474659": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/bgr/bg_popup.png",
+    "value": {}
+  },
+  "0e89a6da-976e-444e-a44d-2f4c2f4960d6": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/bgr/default_sprite_splash.png",
+    "value": {}
+  },
+  "4d6f0983-d68c-40d4-898c-f2a641ca65ce@f9941": {
+    "url": "db://assets/resources/images/bgr/bg_popup.png@f9941",
+    "value": {
+      "depends": [
+        "4d6f0983-d68c-40d4-898c-f2a641ca65ce@6c48a"
+      ]
+    }
+  },
+  "3515dfca-3542-4db2-be75-6b7c0f668178": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_button_normal.png",
+    "value": {}
+  },
+  "a869c7e0-5d41-4844-802f-ac23d5f453b4@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/fonts/fnt_jackpot_number.png@6c48a",
+    "value": {
+      "depends": [
+        "a869c7e0-5d41-4844-802f-ac23d5f453b4"
+      ]
+    }
+  },
+  "0e89a6da-976e-444e-a44d-2f4c2f4960d6@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/bgr/default_sprite_splash.png@6c48a",
+    "value": {
+      "depends": [
+        "0e89a6da-976e-444e-a44d-2f4c2f4960d6"
+      ]
+    }
+  },
+  "4f8c96d2-66bd-4d35-a103-daeaf2489f48@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/anims/Cloud/Clound.png@6c48a",
+    "value": {
+      "depends": [
+        "4f8c96d2-66bd-4d35-a103-daeaf2489f48"
+      ]
+    }
+  },
+  "1363bfbb-aa4e-46f6-b798-7704a1474659@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/bgr/bg_popup.png@6c48a",
+    "value": {
+      "depends": [
+        "1363bfbb-aa4e-46f6-b798-7704a1474659"
+      ]
+    }
+  },
+  "0e89a6da-976e-444e-a44d-2f4c2f4960d6@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/bgr/default_sprite_splash.png@f9941",
+    "value": {
+      "depends": [
+        "0e89a6da-976e-444e-a44d-2f4c2f4960d6@6c48a"
+      ]
+    }
+  },
+  "eaf7fa72-a454-4fb6-9da9-76f0bc4bade3": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_button_press_orange.png",
+    "value": {}
+  },
+  "a869c7e0-5d41-4844-802f-ac23d5f453b4@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/fonts/fnt_jackpot_number.png@f9941",
+    "value": {
+      "depends": [
+        "a869c7e0-5d41-4844-802f-ac23d5f453b4@6c48a"
+      ]
+    }
+  },
+  "79a67b53-1397-4153-87ba-096ed97d97de": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_cell_normal.png",
+    "value": {}
+  },
+  "4f8c96d2-66bd-4d35-a103-daeaf2489f48@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/anims/Cloud/Clound.png@f9941",
+    "value": {
+      "depends": [
+        "4f8c96d2-66bd-4d35-a103-daeaf2489f48@6c48a"
+      ]
+    }
+  },
+  "205b23c2-a5f9-482d-8095-c30e6c7da8b4": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_cell_press.png",
+    "value": {}
+  },
+  "1363bfbb-aa4e-46f6-b798-7704a1474659@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/bgr/bg_popup.png@f9941",
+    "value": {
+      "depends": [
+        "1363bfbb-aa4e-46f6-b798-7704a1474659@6c48a"
+      ]
+    }
+  },
+  "de4ae590-4c01-4acf-b666-cfe86763bae1": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_item.png",
+    "value": {}
+  },
+  "3515dfca-3542-4db2-be75-6b7c0f668178@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_button_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "3515dfca-3542-4db2-be75-6b7c0f668178"
+      ]
+    }
+  },
+  "3515dfca-3542-4db2-be75-6b7c0f668178@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_button_normal.png@f9941",
+    "value": {
+      "depends": [
+        "3515dfca-3542-4db2-be75-6b7c0f668178@6c48a"
+      ]
+    }
+  },
+  "554c70b5-0482-4ac5-83ed-82b10df40b27": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_popup.png",
+    "value": {}
+  },
+  "eaf7fa72-a454-4fb6-9da9-76f0bc4bade3@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_button_press_orange.png@6c48a",
+    "value": {
+      "depends": [
+        "eaf7fa72-a454-4fb6-9da9-76f0bc4bade3"
+      ]
+    }
+  },
+  "79a67b53-1397-4153-87ba-096ed97d97de@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_cell_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "79a67b53-1397-4153-87ba-096ed97d97de"
+      ]
+    }
+  },
+  "205b23c2-a5f9-482d-8095-c30e6c7da8b4@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_cell_press.png@6c48a",
+    "value": {
+      "depends": [
+        "205b23c2-a5f9-482d-8095-c30e6c7da8b4"
+      ]
+    }
+  },
+  "eaf7fa72-a454-4fb6-9da9-76f0bc4bade3@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_button_press_orange.png@f9941",
+    "value": {
+      "depends": [
+        "eaf7fa72-a454-4fb6-9da9-76f0bc4bade3@6c48a"
+      ]
+    }
+  },
+  "57c346ef-a2df-41af-9365-a3217dad4d1a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_popup_2.png",
+    "value": {}
+  },
+  "79a67b53-1397-4153-87ba-096ed97d97de@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_cell_normal.png@f9941",
+    "value": {
+      "depends": [
+        "79a67b53-1397-4153-87ba-096ed97d97de@6c48a"
+      ]
+    }
+  },
+  "1254b907-7b29-475a-9ebf-6eb231fd7e1f": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/btn_back.png",
+    "value": {}
+  },
+  "de4ae590-4c01-4acf-b666-cfe86763bae1@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_item.png@6c48a",
+    "value": {
+      "depends": [
+        "de4ae590-4c01-4acf-b666-cfe86763bae1"
+      ]
+    }
+  },
+  "554c70b5-0482-4ac5-83ed-82b10df40b27@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_popup.png@6c48a",
+    "value": {
+      "depends": [
+        "554c70b5-0482-4ac5-83ed-82b10df40b27"
+      ]
+    }
+  },
+  "205b23c2-a5f9-482d-8095-c30e6c7da8b4@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_cell_press.png@f9941",
+    "value": {
+      "depends": [
+        "205b23c2-a5f9-482d-8095-c30e6c7da8b4@6c48a"
+      ]
+    }
+  },
+  "587395c4-a818-4f15-80be-5042867088bc": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/btn_x.png",
+    "value": {}
+  },
+  "de4ae590-4c01-4acf-b666-cfe86763bae1@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_item.png@f9941",
+    "value": {
+      "depends": [
+        "de4ae590-4c01-4acf-b666-cfe86763bae1@6c48a"
+      ]
+    }
+  },
+  "a623d747-0610-450d-bba0-6dc4440f8866": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/popup_button_black.png",
+    "value": {}
+  },
+  "57c346ef-a2df-41af-9365-a3217dad4d1a@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_popup_2.png@6c48a",
+    "value": {
+      "depends": [
+        "57c346ef-a2df-41af-9365-a3217dad4d1a"
+      ]
+    }
+  },
+  "554c70b5-0482-4ac5-83ed-82b10df40b27@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_popup.png@f9941",
+    "value": {
+      "depends": [
+        "554c70b5-0482-4ac5-83ed-82b10df40b27@6c48a"
+      ]
+    }
+  },
+  "d4f63667-10bd-4a67-a295-9d88824ec6fe": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/popup/item_table_view.prefab",
+    "value": {}
+  },
+  "1254b907-7b29-475a-9ebf-6eb231fd7e1f@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/btn_back.png@6c48a",
+    "value": {
+      "depends": [
+        "1254b907-7b29-475a-9ebf-6eb231fd7e1f"
+      ]
+    }
+  },
+  "57c346ef-a2df-41af-9365-a3217dad4d1a@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/bg_popup_2.png@f9941",
+    "value": {
+      "depends": [
+        "57c346ef-a2df-41af-9365-a3217dad4d1a@6c48a"
+      ]
+    }
+  },
+  "e9c075da-27b8-4d05-bdab-b710c6c5f93e": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/popup/popup_1.prefab",
+    "value": {}
+  },
+  "cb3d96cd-d6f4-4f89-9460-b9f2f3cbf9c2": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/popup/popup_notify.prefab",
+    "value": {}
+  },
+  "9f6a7df5-1500-4fce-979f-cc98016044c2": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/popup/popup_table_view.prefab",
+    "value": {}
+  },
+  "a623d747-0610-450d-bba0-6dc4440f8866@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/popup_button_black.png@6c48a",
+    "value": {
+      "depends": [
+        "a623d747-0610-450d-bba0-6dc4440f8866"
+      ]
+    }
+  },
+  "6104e8f6-0564-43f7-9c7c-c0cb3d2a9054": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/screen/loading_screen.prefab",
+    "value": {}
+  },
+  "587395c4-a818-4f15-80be-5042867088bc@6c48a": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/btn_x.png@6c48a",
+    "value": {
+      "depends": [
+        "587395c4-a818-4f15-80be-5042867088bc"
+      ]
+    }
+  },
+  "040499d5-e9f5-46cf-9423-f575207e4159": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/screen/play_screen.prefab",
+    "value": {}
+  },
+  "160bd486-554c-4599-838b-fd29668553ff": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/screen/play_screen_2.prefab",
+    "value": {}
+  },
+  "82c78f5e-5e73-47eb-bff6-5470d68bd74f": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/screen/play_screen_3.prefab",
+    "value": {}
+  },
+  "17378f89-b231-47b4-8e3e-1866633b0f39": {
+    "url": "db://assets/vd-games/pvp-domino/res/prefabs/transition/transition_cloud.prefab",
+    "value": {}
+  },
+  "a623d747-0610-450d-bba0-6dc4440f8866@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/popup_button_black.png@f9941",
+    "value": {
+      "depends": [
+        "a623d747-0610-450d-bba0-6dc4440f8866@6c48a"
+      ]
+    }
+  },
+  "7203006d-ecb8-400a-a19f-9d643efd800f": {
+    "url": "db://assets/vd-games/pvp-domino/res/sounds/bgm/dm_bgm_main.mp3",
+    "value": {}
+  },
+  "4e0ad04e-9182-40cf-a82d-4279619e1f2e": {
+    "url": "db://assets/vd-games/pvp-domino/res/sounds/bgm/dm_bgm_win.mp3",
+    "value": {}
+  },
+  "6178a56b-0162-473f-8e5a-3257b7f30dca": {
+    "url": "db://assets/vd-games/pvp-domino/res/sounds/sfx/dm_sfx_appear.mp3",
+    "value": {}
+  },
+  "1254b907-7b29-475a-9ebf-6eb231fd7e1f@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/btn_back.png@f9941",
+    "value": {
+      "depends": [
+        "1254b907-7b29-475a-9ebf-6eb231fd7e1f@6c48a"
+      ]
+    }
+  },
+  "afe4ff51-5eb3-4bdb-82d1-7f3102ebade9": {
+    "url": "db://assets/vd-games/pvp-domino/res/sounds/sfx/dm_sfx_click.mp3",
+    "value": {}
+  },
+  "587395c4-a818-4f15-80be-5042867088bc@f9941": {
+    "url": "db://assets/vd-games/pvp-domino/res/images/popup_common/btn_x.png@f9941",
+    "value": {
+      "depends": [
+        "587395c4-a818-4f15-80be-5042867088bc@6c48a"
+      ]
+    }
+  },
+  "49afa2ad-9464-4e6f-a1fd-9bbaead7756c": {
+    "url": "db://assets/vd-games/pvp-domino/res/sounds/sfx/dm_sfx_ting.mp3",
+    "value": {}
+  },
+  "48095ceb-f3f4-4224-b6b0-aca7482348fe": {
+    "url": "db://assets/vd-games/preschool-exam",
+    "value": {}
+  },
+  "d0c5a49c-db75-401f-8208-876c1ecd4973": {
+    "url": "db://assets/vd-games/preschool-exam/res",
+    "value": {}
+  },
+  "e32c2a99-c3f3-409f-9ca5-2b339673c586": {
+    "url": "db://assets/vd-games/preschool-exam/script",
+    "value": {}
+  },
+  "e5f34ab7-8047-4b1b-95d4-67f0593ae262": {
+    "url": "db://assets/vd-games/preschool-exam/script/common",
+    "value": {}
+  },
+  "edccd589-98da-4ecf-abad-2d8b243589c7": {
+    "url": "db://assets/vd-games/preschool-exam/script/popups",
+    "value": {}
+  },
+  "ba70762c-1730-4097-954f-7396871308d9": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens",
+    "value": {}
+  },
+  "d23a7220-d85a-4154-851c-73c5d062fe00": {
+    "url": "db://assets/vd-games/preschool-exam/script/ex_Scene.ts",
+    "value": {}
+  },
+  "f3b4aecb-aef7-416d-8804-98757a9ba8ed": {
+    "url": "db://assets/vd-games/preschool-exam/res/anims",
+    "value": {}
+  },
+  "f173b2f5-7778-491d-930a-52eba17380ec": {
+    "url": "db://assets/vd-games/preschool-exam/res/fonts",
+    "value": {}
+  },
+  "e012d1fa-09c3-4421-bffe-d53fc5e9ddd0": {
+    "url": "db://assets/vd-games/preschool-exam/res/images",
+    "value": {}
+  },
+  "6edda5bd-45ab-47c9-9af3-da5fd0e739de": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs",
+    "value": {}
+  },
+  "3fe730e8-6396-4700-83bd-d34f839021a0": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/popup",
+    "value": {}
+  },
+  "dde4c6c9-c119-4d59-b6fe-e243421a5292": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen",
+    "value": {}
+  },
+  "18dd00a1-f478-46ad-b7a1-4676a4999166": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/transition",
+    "value": {}
+  },
+  "bcfb31ed-265c-428f-b9ee-f1e2b2df065c": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds",
+    "value": {}
+  },
+  "4315dcf8-3983-466d-9a51-4411d44f2fb3": {
+    "url": "db://assets/vd-games/preschool-exam/res/ex_Scene.scene",
+    "value": {}
+  },
+  "f4c1c965-8fb3-40ab-9672-f74ef3a84300": {
+    "url": "db://assets/vd-games/pvp-exam/script/common/ex_cònig",
+    "value": {}
+  },
+  "dff0e0ef-36bd-42e8-94dc-472ec7dde784": {
+    "url": "db://assets/vd-games/preschool-exam/script/common/ex_Config.ts",
+    "value": {}
+  },
+  "4f2e873e-c10c-461d-aa57-9dacb75789d3": {
+    "url": "db://assets/vd-games/preschool-exam/script/common/ex_Director.ts",
+    "value": {}
+  },
+  "05715164-e4c8-464e-9464-d22c29a6cccf": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/ex_MainScreen.ts",
+    "value": {}
+  },
+  "5448dbb3-c2b8-4796-ab6c-82c2b66ad481": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/main_screen.prefab",
+    "value": {}
+  },
+  "0bcc9bb6-ac95-4b00-8eee-1c0840cfbfe7": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr",
+    "value": {}
+  },
+  "31c2cda3-3bdd-47b8-be4a-151ecfcc8833": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/bg_popup.png",
+    "value": {}
+  },
+  "004209ac-e36e-4165-a2da-003a0130b8c1": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/default_sprite_splash.png",
+    "value": {}
+  },
+  "004209ac-e36e-4165-a2da-003a0130b8c1@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/default_sprite_splash.png@6c48a",
+    "value": {
+      "depends": [
+        "004209ac-e36e-4165-a2da-003a0130b8c1"
+      ]
+    }
+  },
+  "31c2cda3-3bdd-47b8-be4a-151ecfcc8833@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/bg_popup.png@6c48a",
+    "value": {
+      "depends": [
+        "31c2cda3-3bdd-47b8-be4a-151ecfcc8833"
+      ]
+    }
+  },
+  "004209ac-e36e-4165-a2da-003a0130b8c1@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/default_sprite_splash.png@f9941",
+    "value": {
+      "depends": [
+        "004209ac-e36e-4165-a2da-003a0130b8c1@6c48a"
+      ]
+    }
+  },
+  "31c2cda3-3bdd-47b8-be4a-151ecfcc8833@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/bg_popup.png@f9941",
+    "value": {
+      "depends": [
+        "31c2cda3-3bdd-47b8-be4a-151ecfcc8833@6c48a"
+      ]
+    }
+  },
+  "9d19f297-5c44-4544-b268-801777548b7b": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common",
+    "value": {}
+  },
+  "f807f04b-f87a-4e34-aa88-1cecc3d925b2": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_button_normal.png",
+    "value": {}
+  },
+  "23c96720-322b-480a-91f8-16cea3207c15": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_button_press_orange.png",
+    "value": {}
+  },
+  "40936264-52ed-411c-a7c3-52016d23ba0c": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_cell_normal.png",
+    "value": {}
+  },
+  "c70c40dd-5e59-43df-ba4a-4aeff380ca02": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_cell_press.png",
+    "value": {}
+  },
+  "6a6ca278-ff35-434f-9d9b-2c18db36c3dd": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_item.png",
+    "value": {}
+  },
+  "c70c40dd-5e59-43df-ba4a-4aeff380ca02@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_cell_press.png@6c48a",
+    "value": {
+      "depends": [
+        "c70c40dd-5e59-43df-ba4a-4aeff380ca02"
+      ]
+    }
+  },
+  "40936264-52ed-411c-a7c3-52016d23ba0c@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_cell_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "40936264-52ed-411c-a7c3-52016d23ba0c"
+      ]
+    }
+  },
+  "23c96720-322b-480a-91f8-16cea3207c15@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_button_press_orange.png@6c48a",
+    "value": {
+      "depends": [
+        "23c96720-322b-480a-91f8-16cea3207c15"
+      ]
+    }
+  },
+  "f807f04b-f87a-4e34-aa88-1cecc3d925b2@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_button_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "f807f04b-f87a-4e34-aa88-1cecc3d925b2"
+      ]
+    }
+  },
+  "c70c40dd-5e59-43df-ba4a-4aeff380ca02@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_cell_press.png@f9941",
+    "value": {
+      "depends": [
+        "c70c40dd-5e59-43df-ba4a-4aeff380ca02@6c48a"
+      ]
+    }
+  },
+  "1dbe2f5b-de0d-48c7-984a-6e04d757509c": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_popup.png",
+    "value": {}
+  },
+  "40936264-52ed-411c-a7c3-52016d23ba0c@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_cell_normal.png@f9941",
+    "value": {
+      "depends": [
+        "40936264-52ed-411c-a7c3-52016d23ba0c@6c48a"
+      ]
+    }
+  },
+  "23c96720-322b-480a-91f8-16cea3207c15@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_button_press_orange.png@f9941",
+    "value": {
+      "depends": [
+        "23c96720-322b-480a-91f8-16cea3207c15@6c48a"
+      ]
+    }
+  },
+  "a37f723c-a514-4625-80c5-9277c0bf55d2": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_popup_2.png",
+    "value": {}
+  },
+  "e0a99e8f-5511-4853-b1a7-05009578f28b": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/btn_back.png",
+    "value": {}
+  },
+  "6a6ca278-ff35-434f-9d9b-2c18db36c3dd@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_item.png@6c48a",
+    "value": {
+      "depends": [
+        "6a6ca278-ff35-434f-9d9b-2c18db36c3dd"
+      ]
+    }
+  },
+  "f807f04b-f87a-4e34-aa88-1cecc3d925b2@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_button_normal.png@f9941",
+    "value": {
+      "depends": [
+        "f807f04b-f87a-4e34-aa88-1cecc3d925b2@6c48a"
+      ]
+    }
+  },
+  "5e006a7e-b30d-4d55-9aab-3fcef2e4ccaf": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/btn_x.png",
+    "value": {}
+  },
+  "1dbe2f5b-de0d-48c7-984a-6e04d757509c@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_popup.png@6c48a",
+    "value": {
+      "depends": [
+        "1dbe2f5b-de0d-48c7-984a-6e04d757509c"
+      ]
+    }
+  },
+  "6a6ca278-ff35-434f-9d9b-2c18db36c3dd@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_item.png@f9941",
+    "value": {
+      "depends": [
+        "6a6ca278-ff35-434f-9d9b-2c18db36c3dd@6c48a"
+      ]
+    }
+  },
+  "a37f723c-a514-4625-80c5-9277c0bf55d2@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_popup_2.png@6c48a",
+    "value": {
+      "depends": [
+        "a37f723c-a514-4625-80c5-9277c0bf55d2"
+      ]
+    }
+  },
+  "ccc3a242-2723-4163-949d-e9c7d666c2f9": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/popup_button_black.png",
+    "value": {}
+  },
+  "1dbe2f5b-de0d-48c7-984a-6e04d757509c@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_popup.png@f9941",
+    "value": {
+      "depends": [
+        "1dbe2f5b-de0d-48c7-984a-6e04d757509c@6c48a"
+      ]
+    }
+  },
+  "e0a99e8f-5511-4853-b1a7-05009578f28b@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/btn_back.png@6c48a",
+    "value": {
+      "depends": [
+        "e0a99e8f-5511-4853-b1a7-05009578f28b"
+      ]
+    }
+  },
+  "a37f723c-a514-4625-80c5-9277c0bf55d2@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/bg_popup_2.png@f9941",
+    "value": {
+      "depends": [
+        "a37f723c-a514-4625-80c5-9277c0bf55d2@6c48a"
+      ]
+    }
+  },
+  "5e006a7e-b30d-4d55-9aab-3fcef2e4ccaf@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/btn_x.png@6c48a",
+    "value": {
+      "depends": [
+        "5e006a7e-b30d-4d55-9aab-3fcef2e4ccaf"
+      ]
+    }
+  },
+  "e0a99e8f-5511-4853-b1a7-05009578f28b@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/btn_back.png@f9941",
+    "value": {
+      "depends": [
+        "e0a99e8f-5511-4853-b1a7-05009578f28b@6c48a"
+      ]
+    }
+  },
+  "ccc3a242-2723-4163-949d-e9c7d666c2f9@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/popup_button_black.png@6c48a",
+    "value": {
+      "depends": [
+        "ccc3a242-2723-4163-949d-e9c7d666c2f9"
+      ]
+    }
+  },
+  "5e006a7e-b30d-4d55-9aab-3fcef2e4ccaf@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/btn_x.png@f9941",
+    "value": {
+      "depends": [
+        "5e006a7e-b30d-4d55-9aab-3fcef2e4ccaf@6c48a"
+      ]
+    }
+  },
+  "ccc3a242-2723-4163-949d-e9c7d666c2f9@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/popup_common/popup_button_black.png@f9941",
+    "value": {
+      "depends": [
+        "ccc3a242-2723-4163-949d-e9c7d666c2f9@6c48a"
+      ]
+    }
+  },
+  "39b44189-4518-42d3-92e6-3c30d53f4f8d": {
+    "url": "db://assets/vd-games/pvp-exam",
+    "value": {}
+  },
+  "843a27ff-ba59-4a9a-a926-dd626d107a96": {
+    "url": "db://assets/vd-games/pvp-exam/script",
+    "value": {}
+  },
+  "0267ca67-fcf9-4e70-8b03-84d7cca3ca4e": {
+    "url": "db://assets/vd-games/pvp-exam/script/ex_Scene.ts",
+    "value": {}
+  },
+  "d1fa5230-632c-4a6d-95df-908712db669e": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison_screen.prefab",
+    "value": {}
+  },
+  "e98ada2a-503a-482d-97be-10d1e51b0347": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/ex_ComparisonScreen.ts",
+    "value": {}
+  },
+  "498461cf-6ade-4883-a6d2-2e8d3a1db8e0": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/level1.prefab",
+    "value": {}
+  },
+  "2d92276d-abac-48d4-9703-c6ea9061edaa": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/popup/popup_notify.prefab",
+    "value": {}
+  },
+  "cee473c5-8144-4e3e-8ad6-b2bb01bd0258": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/ex_Level1.ts",
+    "value": {}
+  },
+  "bf236042-1441-4cde-a6a7-cad6d9d2810f": {
+    "url": "db://assets/vd-games/preschool-exam/script/transiton",
+    "value": {}
+  },
+  "0967d5ad-ad35-47f9-8d77-004489e38565": {
+    "url": "db://assets/vd-games/preschool-exam/script/transiton/Transformation.ts",
+    "value": {}
+  },
+  "0557a9d2-ba28-4649-91fe-5b0d171a4171": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/level1",
+    "value": {}
+  },
+  "0988460b-1792-49ee-ac95-7b7c10be16a9": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match_screen.prefab",
+    "value": {}
+  },
+  "4716e925-44de-4674-bd4c-67c45986b30b": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/Node.prefab",
+    "value": {}
+  },
+  "971dec26-15ca-43be-823f-32720f48a34b": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/ex_MatchScreen.ts",
+    "value": {}
+  },
+  "df81272b-0f5d-46ef-8155-77dfba765f02": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match",
+    "value": {}
+  },
+  "89b76ddb-b3b3-4a23-a7fd-6e422b2c40c3": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match/level1.prefab",
+    "value": {}
+  },
+  "66a48463-9740-4723-a992-df4f8850f7bc": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison",
+    "value": {}
+  },
+  "f185babd-53ff-4cd3-8ed3-c6ad758467e0": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison/level1.prefab",
+    "value": {}
+  },
+  "536bdd04-7c3f-4d01-aa9c-02eea81efec4": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/comparison",
+    "value": {}
+  },
+  "e1072463-2b2e-4eeb-adf0-be29bb46aa27": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/comparison/ex_Level1.ts",
+    "value": {}
+  },
+  "0c178f8c-3010-4195-85c6-efb58eb503f2": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/comparison/level1_comp.ts",
+    "value": {}
+  },
+  "674cb20e-eebc-430f-af51-bbeaf5199b95": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/loading_screen2.prefab",
+    "value": {}
+  },
+  "2ad55a7e-511e-4428-a010-dc04cc02c8ee": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/ex_LoadingScreen2.ts",
+    "value": {}
+  },
+  "05dac45c-cc45-4ddf-9cd7-d8e03942aacb": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds",
+    "value": {}
+  },
+  "c4558ecf-dea0-40b8-9668-85489023bd6a": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds/bgm",
+    "value": {}
+  },
+  "9f596ebd-42d4-4674-9c46-074449c34ca5": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds/sfx",
+    "value": {}
+  },
+  "23a71efa-14c6-49b8-b0e6-3e3e0c7abd2e": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds/bgm/dm_bgm_main.mp3",
+    "value": {}
+  },
+  "c9c77bc4-e50e-4b21-8aad-b2f81f71e1c2": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds/bgm/dm_bgm_win.mp3",
+    "value": {}
+  },
+  "ad51a2e8-42e9-4597-9bbb-d10f170e5f83": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds/sfx/dm_sfx_appear.mp3",
+    "value": {}
+  },
+  "35bcb59f-7221-405f-9a11-5c3ad2c4b5e9": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds/sfx/dm_sfx_click.mp3",
+    "value": {}
+  },
+  "c0be00d9-9e91-485c-bb2d-1c980f5aeafd": {
+    "url": "db://assets/vd-games/preschool-exam/res/sounds/sfx/dm_sfx_ting.mp3",
+    "value": {}
+  },
+  "7603ccdd-c452-47ad-97fe-8be4b6a3d036": {
+    "url": "db://assets/vd-games/preschool-exam/res/fonts/fnt_jackpot_number.fnt",
+    "value": {}
+  },
+  "a9a3a688-50d6-404c-8e37-c633cbdb7697": {
+    "url": "db://assets/vd-games/preschool-exam/res/anims/Cloud",
+    "value": {}
+  },
+  "74a78f81-9e14-4de7-9a48-f11561e18461": {
+    "url": "db://assets/vd-games/preschool-exam/res/anims/Cloud/Clound.json",
+    "value": {
+      "depends": [
+        "d811d915-f1a4-4731-9a8f-2ba73884f9d7@6c48a"
+      ]
+    }
+  },
+  "b72f85f5-a12b-43ab-9073-2174bbb831d0": {
+    "url": "db://assets/vd-games/preschool-exam/res/anims/Cloud/Clound.atlas",
+    "value": {}
+  },
+  "d811d915-f1a4-4731-9a8f-2ba73884f9d7": {
+    "url": "db://assets/vd-games/preschool-exam/res/anims/Cloud/Clound.png",
+    "value": {}
+  },
+  "d811d915-f1a4-4731-9a8f-2ba73884f9d7@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/anims/Cloud/Clound.png@6c48a",
+    "value": {
+      "depends": [
+        "d811d915-f1a4-4731-9a8f-2ba73884f9d7"
+      ]
+    }
+  },
+  "d811d915-f1a4-4731-9a8f-2ba73884f9d7@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/anims/Cloud/Clound.png@f9941",
+    "value": {
+      "depends": [
+        "d811d915-f1a4-4731-9a8f-2ba73884f9d7@6c48a"
+      ]
+    }
+  },
+  "b97fe5e7-1272-4b27-8b2a-dac9a3cd6fe6": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/ex_LevelComparison.ts",
+    "value": {}
+  },
+  "680e8acb-5fe4-4175-bf87-ff1c96ba23de": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/match",
+    "value": {}
+  },
+  "6bafb916-15d4-4916-a97b-f7d5129b196f": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/match/level1_match.ts",
+    "value": {}
+  },
+  "f6396e00-06f8-410f-8376-c75de85db373": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match/level2.prefab",
+    "value": {}
+  },
+  "fc4452c5-7cfa-475f-9c72-2662db9909f7": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match/level2.prefab",
+    "value": {}
+  },
+  "c3fdc0e6-bc40-46ad-8054-55e1b0a4cc99": {
+    "url": "db://assets/vd-games/preschool-exam/script/transiton/drappable.ts",
+    "value": {}
+  },
+  "0f67516f-9d60-4dbc-aa80-7a0c7cec2f7d": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match/level3.prefab",
+    "value": {}
+  },
+  "8b694dd9-c45a-4604-9b25-ef042738e194": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 11.png",
+    "value": {}
+  },
+  "9a146223-5629-4219-81d0-f27667973eb6": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 12.png",
+    "value": {}
+  },
+  "cb876844-e3d3-4009-b478-b02497bcfaa1": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 13.png",
+    "value": {}
+  },
+  "3b1642d0-edf0-42f3-a51f-e44f31cab51c": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 14.png",
+    "value": {}
+  },
+  "6bdc3c4a-0101-48a7-aa40-87c854dc8316": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 15.png",
+    "value": {}
+  },
+  "9a146223-5629-4219-81d0-f27667973eb6@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 12.png@6c48a",
+    "value": {
+      "depends": [
+        "9a146223-5629-4219-81d0-f27667973eb6"
+      ]
+    }
+  },
+  "8b694dd9-c45a-4604-9b25-ef042738e194@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 11.png@6c48a",
+    "value": {
+      "depends": [
+        "8b694dd9-c45a-4604-9b25-ef042738e194"
+      ]
+    }
+  },
+  "cb876844-e3d3-4009-b478-b02497bcfaa1@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 13.png@6c48a",
+    "value": {
+      "depends": [
+        "cb876844-e3d3-4009-b478-b02497bcfaa1"
+      ]
+    }
+  },
+  "3b1642d0-edf0-42f3-a51f-e44f31cab51c@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 14.png@6c48a",
+    "value": {
+      "depends": [
+        "3b1642d0-edf0-42f3-a51f-e44f31cab51c"
+      ]
+    }
+  },
+  "3b1642d0-edf0-42f3-a51f-e44f31cab51c@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 14.png@f9941",
+    "value": {
+      "depends": [
+        "3b1642d0-edf0-42f3-a51f-e44f31cab51c@6c48a"
+      ]
+    }
+  },
+  "9a146223-5629-4219-81d0-f27667973eb6@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 12.png@f9941",
+    "value": {
+      "depends": [
+        "9a146223-5629-4219-81d0-f27667973eb6@6c48a"
+      ]
+    }
+  },
+  "cb876844-e3d3-4009-b478-b02497bcfaa1@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 13.png@f9941",
+    "value": {
+      "depends": [
+        "cb876844-e3d3-4009-b478-b02497bcfaa1@6c48a"
+      ]
+    }
+  },
+  "8b694dd9-c45a-4604-9b25-ef042738e194@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 11.png@f9941",
+    "value": {
+      "depends": [
+        "8b694dd9-c45a-4604-9b25-ef042738e194@6c48a"
+      ]
+    }
+  },
+  "6bdc3c4a-0101-48a7-aa40-87c854dc8316@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 15.png@6c48a",
+    "value": {
+      "depends": [
+        "6bdc3c4a-0101-48a7-aa40-87c854dc8316"
+      ]
+    }
+  },
+  "6bdc3c4a-0101-48a7-aa40-87c854dc8316@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/Group 15.png@f9941",
+    "value": {
+      "depends": [
+        "6bdc3c4a-0101-48a7-aa40-87c854dc8316@6c48a"
+      ]
+    }
+  },
+  "b3edd94d-b804-45d8-9bd1-f261f508d562": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/coss",
+    "value": {}
+  },
+  "eec31351-59ea-4805-9852-5277af98aa3f": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common",
+    "value": {}
+  },
+  "b3540325-6bcd-439b-83cd-a4082b39782b": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/Layer 65.png",
+    "value": {}
+  },
+  "b3540325-6bcd-439b-83cd-a4082b39782b@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/Layer 65.png@6c48a",
+    "value": {
+      "depends": [
+        "b3540325-6bcd-439b-83cd-a4082b39782b"
+      ]
+    }
+  },
+  "b3540325-6bcd-439b-83cd-a4082b39782b@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/Layer 65.png@f9941",
+    "value": {
+      "depends": [
+        "b3540325-6bcd-439b-83cd-a4082b39782b@6c48a"
+      ]
+    }
+  },
+  "2527bf7f-3367-4511-91c9-c3ec210320af": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison/level2.prefab",
+    "value": {}
+  },
+  "0ff4348e-50f0-4ce5-9726-8bf2e7ed6ce6": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison/level3.prefab",
+    "value": {}
+  },
+  "fdfa8a44-2542-46ef-80ba-a3f38244e458": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/complete_picture_screen.prefab",
+    "value": {}
+  },
+  "c1494a16-35b2-455c-a72e-1ee3a397199a": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/science_screen.prefab",
+    "value": {}
+  },
+  "1a05a271-0731-4a1b-8d97-bdf92529ed8d": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/ex_Science.ts",
+    "value": {}
+  },
+  "ffeb5a79-6726-4a42-9376-2975fea7c592": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/ex_CompletePicture.ts",
+    "value": {}
+  },
+  "1886a9d8-c387-4262-a35c-b6254a342cd3": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/complete_picture",
+    "value": {}
+  },
+  "fff4d848-2c8d-4495-aa49-352d1b5bd15d": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/complete_picture",
+    "value": {}
+  },
+  "aa38b39f-2fc3-4c8a-a408-d9104714200b": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/complete_picture/level1.prefab",
+    "value": {}
+  },
+  "4e8a67f4-39bd-492f-97a4-50e6ef8af83c": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/science",
+    "value": {}
+  },
+  "79e881a2-41f2-403c-a5cd-e4b10fad7269": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/science/level3.prefab",
+    "value": {}
+  },
+  "fe2bd917-0b77-437b-b5c9-7d14c690e2c6": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/complete_picture/level1_picture.ts",
+    "value": {}
+  },
+  "5191e205-48f9-450d-8184-cdfc4798b81b": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/picture",
+    "value": {}
+  },
+  "d19c0237-30ed-441f-af58-bb313e46f97e": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/picture/picture1.jpg",
+    "value": {}
+  },
+  "d19c0237-30ed-441f-af58-bb313e46f97e@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/picture/picture1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "d19c0237-30ed-441f-af58-bb313e46f97e"
+      ]
+    }
+  },
+  "d19c0237-30ed-441f-af58-bb313e46f97e@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/picture/picture1.jpg@f9941",
+    "value": {
+      "depends": [
+        "d19c0237-30ed-441f-af58-bb313e46f97e@6c48a"
+      ]
+    }
+  },
+  "bd2f115e-5024-442b-a8a6-68db575817dc": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/picture/picture2.PNG",
+    "value": {}
+  },
+  "bd2f115e-5024-442b-a8a6-68db575817dc@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/picture/picture2.PNG@6c48a",
+    "value": {
+      "depends": [
+        "bd2f115e-5024-442b-a8a6-68db575817dc"
+      ]
+    }
+  },
+  "bd2f115e-5024-442b-a8a6-68db575817dc@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/picture/picture2.PNG@f9941",
+    "value": {
+      "depends": [
+        "bd2f115e-5024-442b-a8a6-68db575817dc@6c48a"
+      ]
+    }
+  },
+  "13128abc-89e0-46e9-9ef7-9946dd6f85fb": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/science/level2.prefab",
+    "value": {}
+  },
+  "c1abb603-5f36-4ad0-bb89-ac1d2782c076": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/science",
+    "value": {}
+  },
+  "72ffd3fb-33bf-45b1-948e-544a05003d70": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/science/level1_science.ts",
+    "value": {}
+  },
+  "64aad487-b82e-43e2-aba2-e91275fbbd1f": {
+    "url": "db://assets/vd-games/preschool-exam/script/draw",
+    "value": {}
+  },
+  "6d0fb9a0-b846-45de-a1c7-456207ddcb7d": {
+    "url": "db://assets/vd-games/preschool-exam/script/draw/graphic_filling.ts",
+    "value": {}
+  },
+  "5e0490f2-ade7-42af-b7e8-24ed9f4be965": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/atom.png",
+    "value": {}
+  },
+  "5e0490f2-ade7-42af-b7e8-24ed9f4be965@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/atom.png@6c48a",
+    "value": {
+      "depends": [
+        "5e0490f2-ade7-42af-b7e8-24ed9f4be965"
+      ]
+    }
+  },
+  "5e0490f2-ade7-42af-b7e8-24ed9f4be965@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/atom.png@f9941",
+    "value": {
+      "depends": [
+        "5e0490f2-ade7-42af-b7e8-24ed9f4be965@6c48a"
+      ]
+    }
+  },
+  "9fcaf72d-f12f-4991-bfc7-f7afdc130d54": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam",
+    "value": {}
+  },
+  "5284ddef-51e7-4097-9b8d-13db5ad2395b": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 1.png",
+    "value": {}
+  },
+  "d40c8408-3eba-403b-9de4-190f512320ce": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 2.png",
+    "value": {}
+  },
+  "f54419e1-2bf2-48dd-8305-3917238c4527": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 3.png",
+    "value": {}
+  },
+  "a2cef602-0bcd-4393-af5f-67275c30ec02": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 4.png",
+    "value": {}
+  },
+  "2aa6d3c8-6907-48bd-aafa-80e8f5987490": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 5.png",
+    "value": {}
+  },
+  "a2cef602-0bcd-4393-af5f-67275c30ec02@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 4.png@6c48a",
+    "value": {
+      "depends": [
+        "a2cef602-0bcd-4393-af5f-67275c30ec02"
+      ]
+    }
+  },
+  "d40c8408-3eba-403b-9de4-190f512320ce@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 2.png@6c48a",
+    "value": {
+      "depends": [
+        "d40c8408-3eba-403b-9de4-190f512320ce"
+      ]
+    }
+  },
+  "f54419e1-2bf2-48dd-8305-3917238c4527@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 3.png@6c48a",
+    "value": {
+      "depends": [
+        "f54419e1-2bf2-48dd-8305-3917238c4527"
+      ]
+    }
+  },
+  "5284ddef-51e7-4097-9b8d-13db5ad2395b@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 1.png@6c48a",
+    "value": {
+      "depends": [
+        "5284ddef-51e7-4097-9b8d-13db5ad2395b"
+      ]
+    }
+  },
+  "2aa6d3c8-6907-48bd-aafa-80e8f5987490@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 5.png@6c48a",
+    "value": {
+      "depends": [
+        "2aa6d3c8-6907-48bd-aafa-80e8f5987490"
+      ]
+    }
+  },
+  "d40c8408-3eba-403b-9de4-190f512320ce@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 2.png@f9941",
+    "value": {
+      "depends": [
+        "d40c8408-3eba-403b-9de4-190f512320ce@6c48a"
+      ]
+    }
+  },
+  "a2cef602-0bcd-4393-af5f-67275c30ec02@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 4.png@f9941",
+    "value": {
+      "depends": [
+        "a2cef602-0bcd-4393-af5f-67275c30ec02@6c48a"
+      ]
+    }
+  },
+  "eb565629-f7e6-4958-8986-9d056ba18eee": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 6.png",
+    "value": {}
+  },
+  "f54419e1-2bf2-48dd-8305-3917238c4527@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 3.png@f9941",
+    "value": {
+      "depends": [
+        "f54419e1-2bf2-48dd-8305-3917238c4527@6c48a"
+      ]
+    }
+  },
+  "5284ddef-51e7-4097-9b8d-13db5ad2395b@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 1.png@f9941",
+    "value": {
+      "depends": [
+        "5284ddef-51e7-4097-9b8d-13db5ad2395b@6c48a"
+      ]
+    }
+  },
+  "2aa6d3c8-6907-48bd-aafa-80e8f5987490@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 5.png@f9941",
+    "value": {
+      "depends": [
+        "2aa6d3c8-6907-48bd-aafa-80e8f5987490@6c48a"
+      ]
+    }
+  },
+  "eb565629-f7e6-4958-8986-9d056ba18eee@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 6.png@6c48a",
+    "value": {
+      "depends": [
+        "eb565629-f7e6-4958-8986-9d056ba18eee"
+      ]
+    }
+  },
+  "eb565629-f7e6-4958-8986-9d056ba18eee@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/Layer 6.png@f9941",
+    "value": {
+      "depends": [
+        "eb565629-f7e6-4958-8986-9d056ba18eee@6c48a"
+      ]
+    }
+  },
+  "20bb8475-08b6-4232-8043-85b7b46c2eb4": {
+    "url": "db://assets/vd-games/preschool-exam/script/transiton/level_progress_bar.ts",
+    "value": {}
+  },
+  "3d05ed08-86e0-4805-9bc0-e8592473bbe7": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/R.png",
+    "value": {}
+  },
+  "a5aec492-43dc-485d-bcc1-bb6f1bc86a67": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile.jpg",
+    "value": {}
+  },
+  "a5aec492-43dc-485d-bcc1-bb6f1bc86a67@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile.jpg@6c48a",
+    "value": {
+      "depends": [
+        "a5aec492-43dc-485d-bcc1-bb6f1bc86a67"
+      ]
+    }
+  },
+  "a5aec492-43dc-485d-bcc1-bb6f1bc86a67@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile.jpg@f9941",
+    "value": {
+      "depends": [
+        "a5aec492-43dc-485d-bcc1-bb6f1bc86a67@6c48a"
+      ]
+    }
+  },
+  "3d05ed08-86e0-4805-9bc0-e8592473bbe7@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/R.png@6c48a",
+    "value": {
+      "depends": [
+        "3d05ed08-86e0-4805-9bc0-e8592473bbe7"
+      ]
+    }
+  },
+  "3d05ed08-86e0-4805-9bc0-e8592473bbe7@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/R.png@f9941",
+    "value": {
+      "depends": [
+        "3d05ed08-86e0-4805-9bc0-e8592473bbe7@6c48a"
+      ]
+    }
+  },
+  "03c250ef-27b7-4e5c-b9d1-df4ff98c963a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile2.jpg",
+    "value": {}
+  },
+  "03c250ef-27b7-4e5c-b9d1-df4ff98c963a@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "03c250ef-27b7-4e5c-b9d1-df4ff98c963a"
+      ]
+    }
+  },
+  "03c250ef-27b7-4e5c-b9d1-df4ff98c963a@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile2.jpg@f9941",
+    "value": {
+      "depends": [
+        "03c250ef-27b7-4e5c-b9d1-df4ff98c963a@6c48a"
+      ]
+    }
+  },
+  "39377729-4741-4e74-8923-5636f3399a41": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile3.jpg",
+    "value": {}
+  },
+  "39377729-4741-4e74-8923-5636f3399a41@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "39377729-4741-4e74-8923-5636f3399a41"
+      ]
+    }
+  },
+  "39377729-4741-4e74-8923-5636f3399a41@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile3.jpg@f9941",
+    "value": {
+      "depends": [
+        "39377729-4741-4e74-8923-5636f3399a41@6c48a"
+      ]
+    }
+  },
+  "6c25c9ba-681f-4fd0-a2e0-d6cf71aa30d5": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile4.jpg",
+    "value": {}
+  },
+  "6c25c9ba-681f-4fd0-a2e0-d6cf71aa30d5@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile4.jpg@6c48a",
+    "value": {
+      "depends": [
+        "6c25c9ba-681f-4fd0-a2e0-d6cf71aa30d5"
+      ]
+    }
+  },
+  "6c25c9ba-681f-4fd0-a2e0-d6cf71aa30d5@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/smile4.jpg@f9941",
+    "value": {
+      "depends": [
+        "6c25c9ba-681f-4fd0-a2e0-d6cf71aa30d5@6c48a"
+      ]
+    }
+  },
+  "1cf36cee-3abb-417c-9a8f-79f68e78efbe": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/common",
+    "value": {}
+  },
+  "c902b38c-25aa-47b0-8e5c-f7613bd2ba29": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/common/levelBar.prefab",
+    "value": {}
+  },
+  "c37f4667-98f3-4a36-8937-7f8b2825a7dc": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison/level2.prefab",
+    "value": {}
+  },
+  "a8b53e4f-dfdc-4016-a6d5-768b067bbe90": {
+    "url": "db://assets/vd-games/preschool-exam/script/common/MyLevelManage.ts",
+    "value": {}
+  },
+  "e5e98c11-e996-46eb-8074-6b0dd8fbf8f9": {
+    "url": "db://assets/vd-games/preschool-exam/script/common/LocalDataManager.ts",
+    "value": {}
+  },
+  "6831a017-fb35-4089-9f1d-9ab6588da8a6": {
+    "url": "db://assets/vd-games/preschool-exam/script/common/CheckObjectEmpty.ts",
+    "value": {}
+  },
+  "d5a7e024-f174-48ef-9b6b-939b33444d39": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/common/firework.prefab",
+    "value": {}
+  },
+  "29ab574b-1bfe-4540-9595-fb975fe3ce77": {
+    "url": "db://assets/vd-games/preschool-exam/script/common/handleFirework.ts",
+    "value": {}
+  },
+  "88679ad0-ba73-4148-b88a-94c35a1a82ce": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/popup/popup_next.prefab",
+    "value": {}
+  },
+  "c9eda69c-d098-4b40-a57b-c6c4417c3478": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/popup/popup_next.prefab",
+    "value": {}
+  },
+  "ca314ad1-c956-444e-b768-50382a69f85a": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/popup/popup_next.prefab",
+    "value": {}
+  },
+  "4af5e750-e64e-4ede-9c65-d3eec1de8697": {
+    "url": "db://assets/vd-games/preschool-exam/script/popups/popup_next.ts",
+    "value": {}
+  },
+  "5db414da-7151-40b8-a7e4-502a279b49ae": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison/level4.prefab",
+    "value": {}
+  },
+  "61900829-d4be-400d-bc9b-c54363b481b3": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison/level3.prefab",
+    "value": {}
+  },
+  "f4c46e40-6a17-4a5c-aa6b-9026f87cf977": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison/level4.prefab",
+    "value": {}
+  },
+  "447aef1b-33ab-4724-9da2-2f7f86c48322": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/comparison/level5.prefab",
+    "value": {}
+  },
+  "522e976d-c036-4118-b42e-cb7de8dad0e7": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match/level2.prefab",
+    "value": {}
+  },
+  "98e0e10f-3e3c-4994-adce-410a4384b826": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match/level3.prefab",
+    "value": {}
+  },
+  "159a59e2-2bf0-4eac-81cf-828a0e9fdba7": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/match/level3.prefab",
+    "value": {}
+  },
+  "a130ae3a-481a-4358-bf27-652329adde36": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/comparison/level2_comp.ts",
+    "value": {}
+  },
+  "c09ab2cd-8909-4c52-bf41-abf1c5451d44": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/complete_picture/level2.prefab",
+    "value": {}
+  },
+  "63ece481-89bf-4500-b6c5-66499303dec3": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/complete_picture/level2.prefab",
+    "value": {}
+  },
+  "09554b2d-9b08-4e72-a07e-32e221d16958": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/complete_picture/level2_picture.ts",
+    "value": {}
+  },
+  "1caa4371-b5a2-4b96-9b6f-2a4bb573b54c": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level1.jpg",
+    "value": {}
+  },
+  "53fb19d1-2997-4a7c-8882-417ffdca2e49": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level2.jpg",
+    "value": {}
+  },
+  "6a02ef4b-3cb7-437f-8bfb-65464494c0cd": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level3.jpg",
+    "value": {}
+  },
+  "6a5ea4bc-333e-4ba7-8483-19c71412ec64": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level6.png",
+    "value": {}
+  },
+  "1caa4371-b5a2-4b96-9b6f-2a4bb573b54c@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "1caa4371-b5a2-4b96-9b6f-2a4bb573b54c"
+      ]
+    }
+  },
+  "6a02ef4b-3cb7-437f-8bfb-65464494c0cd@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level3.jpg@6c48a",
+    "value": {
+      "depends": [
+        "6a02ef4b-3cb7-437f-8bfb-65464494c0cd"
+      ]
+    }
+  },
+  "53fb19d1-2997-4a7c-8882-417ffdca2e49@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "53fb19d1-2997-4a7c-8882-417ffdca2e49"
+      ]
+    }
+  },
+  "53fb19d1-2997-4a7c-8882-417ffdca2e49@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level2.jpg@f9941",
+    "value": {
+      "depends": [
+        "53fb19d1-2997-4a7c-8882-417ffdca2e49@6c48a"
+      ]
+    }
+  },
+  "6a02ef4b-3cb7-437f-8bfb-65464494c0cd@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level3.jpg@f9941",
+    "value": {
+      "depends": [
+        "6a02ef4b-3cb7-437f-8bfb-65464494c0cd@6c48a"
+      ]
+    }
+  },
+  "1caa4371-b5a2-4b96-9b6f-2a4bb573b54c@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level1.jpg@f9941",
+    "value": {
+      "depends": [
+        "1caa4371-b5a2-4b96-9b6f-2a4bb573b54c@6c48a"
+      ]
+    }
+  },
+  "6a5ea4bc-333e-4ba7-8483-19c71412ec64@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level6.png@6c48a",
+    "value": {
+      "depends": [
+        "6a5ea4bc-333e-4ba7-8483-19c71412ec64"
+      ]
+    }
+  },
+  "6a5ea4bc-333e-4ba7-8483-19c71412ec64@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level6.png@f9941",
+    "value": {
+      "depends": [
+        "6a5ea4bc-333e-4ba7-8483-19c71412ec64@6c48a"
+      ]
+    }
+  },
+  "5c6303cb-adcd-48c9-9c0d-3b6bf6002c5d": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level4.jpg",
+    "value": {}
+  },
+  "85ced8ea-96b7-4dff-b7ae-1b84f4057e80": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level5.jpg",
+    "value": {}
+  },
+  "5c6303cb-adcd-48c9-9c0d-3b6bf6002c5d@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level4.jpg@6c48a",
+    "value": {
+      "depends": [
+        "5c6303cb-adcd-48c9-9c0d-3b6bf6002c5d"
+      ]
+    }
+  },
+  "85ced8ea-96b7-4dff-b7ae-1b84f4057e80@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level5.jpg@6c48a",
+    "value": {
+      "depends": [
+        "85ced8ea-96b7-4dff-b7ae-1b84f4057e80"
+      ]
+    }
+  },
+  "5c6303cb-adcd-48c9-9c0d-3b6bf6002c5d@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level4.jpg@f9941",
+    "value": {
+      "depends": [
+        "5c6303cb-adcd-48c9-9c0d-3b6bf6002c5d@6c48a"
+      ]
+    }
+  },
+  "85ced8ea-96b7-4dff-b7ae-1b84f4057e80@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/sam/level5.jpg@f9941",
+    "value": {
+      "depends": [
+        "85ced8ea-96b7-4dff-b7ae-1b84f4057e80@6c48a"
+      ]
+    }
+  },
+  "134c4fb5-ec73-4032-abcf-cf370f81a423": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/science/level1.prefab",
+    "value": {}
+  },
+  "0d23baa2-ed00-4374-bb8f-704aaa0ecbc5": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/science/level2_science.ts",
+    "value": {}
+  },
+  "0ecb8858-ae22-41df-9edd-a6e48dca631b": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/science/level3.prefab",
+    "value": {}
+  },
+  "cd750162-2a24-47aa-8f18-577ba204e5e6": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/science/level3_science.ts",
+    "value": {}
+  },
+  "b2615381-7197-47b0-a4d5-36f75920c2a0": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/science/level4.prefab",
+    "value": {}
+  },
+  "3191e166-2341-45b4-8d90-937fcc0fab1e": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/screen/science/level5.prefab",
+    "value": {}
+  },
+  "a73b2f62-3638-4c5b-a08b-24d0f030bec7": {
+    "url": "db://assets/vd-games/preschool-exam/script/common/PrefabManager.ts",
+    "value": {}
+  },
+  "e7bb9b01-690b-4400-88f5-b4b60f55fec3": {
+    "url": "db://assets/vd-games/preschool-exam/res/prefabs/common/draw.prefab",
+    "value": {}
+  },
+  "947e1a7d-732f-497d-8631-0e7665ea7453": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/match/level2_match.ts",
+    "value": {}
+  },
+  "5d8b8afc-fa55-4aae-9873-ec005cd7fd37": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/comparison/level3_comp.ts",
+    "value": {}
+  },
+  "168b01f8-541c-432a-a025-e92abaec9d8c": {
+    "url": "db://assets/vd-games/preschool-exam/script/screens/science/level4_science.ts",
+    "value": {}
+  },
+  "218a2124-ae31-4879-a38a-7fa84eaa7d54": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/image 180.png",
+    "value": {}
+  },
+  "0356c5e0-ae5e-4cd4-93c5-29166a1d95e3": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/image 180.png",
+    "value": {}
+  },
+  "218a2124-ae31-4879-a38a-7fa84eaa7d54@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/image 180.png@6c48a",
+    "value": {
+      "depends": [
+        "218a2124-ae31-4879-a38a-7fa84eaa7d54"
+      ]
+    }
+  },
+  "0356c5e0-ae5e-4cd4-93c5-29166a1d95e3@6c48a": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/image 180.png@6c48a",
+    "value": {
+      "depends": [
+        "0356c5e0-ae5e-4cd4-93c5-29166a1d95e3"
+      ]
+    }
+  },
+  "0356c5e0-ae5e-4cd4-93c5-29166a1d95e3@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/common/image 180.png@f9941",
+    "value": {
+      "depends": [
+        "0356c5e0-ae5e-4cd4-93c5-29166a1d95e3@6c48a"
+      ]
+    }
+  },
+  "218a2124-ae31-4879-a38a-7fa84eaa7d54@f9941": {
+    "url": "db://assets/vd-games/preschool-exam/res/images/bgr/image 180.png@f9941",
+    "value": {
+      "depends": [
+        "218a2124-ae31-4879-a38a-7fa84eaa7d54@6c48a"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1562 @@
+{
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources": {
+    "time": 1677631094603.1912,
+    "uuid": "7aa56b10-5dbe-49ca-809a-41cadf7b0744",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-boot": {
+    "time": 1677631094525.0862,
+    "uuid": "65ae15ca-9c0c-4002-9a73-cbe21fa7d6f4",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework": {
+    "time": 1677631094165.796,
+    "uuid": "c2a615a9-08f0-40d8-b2ff-f7526a09476e",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games": {
+    "time": 1677748208571.8652,
+    "uuid": "2458b3fe-4396-4e55-8639-9b41acd05249",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-loading": {
+    "time": 1677631097555.6208,
+    "uuid": "2d61e801-00a5-4659-8bec-6f0ab3a849ea",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-lobby": {
+    "time": 1677208716000,
+    "uuid": "fdd4bc20-9721-4122-9b00-aa5cb1c732b3",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-mock": {
+    "time": 1677631094431.3574,
+    "uuid": "1f7b5e66-ea5a-4e7f-963f-65874d69cd68",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources\\images": {
+    "time": 1677631094650.0552,
+    "uuid": "e2dc2562-27a0-4c7f-afdc-2899b5c75ab9",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task": {
+    "time": 1677631094384.5264,
+    "uuid": "ba272a62-d908-4346-9aa3-83e0c4f55696",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio": {
+    "time": 1677631094134.6052,
+    "uuid": "eb6ffc71-ce82-4e1a-ab5e-93c8567af759",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common": {
+    "time": 1677631093978.375,
+    "uuid": "4e304cef-cb7c-4743-b687-3206627162c5",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\network": {
+    "time": 1677631093587.8384,
+    "uuid": "698f89db-df3b-404d-a49a-ea372a079aa7",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\plugins": {
+    "time": 1677631093540.9417,
+    "uuid": "2c2f5682-7a2d-4219-af38-ee8edb9227c0",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui": {
+    "time": 1677631093462.8347,
+    "uuid": "744acc01-f493-4c33-a48f-11f6db6c806d",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\utils": {
+    "time": 1677631093712.7766,
+    "uuid": "677ae465-4e54-4373-9d5b-66e9e71e1942",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino": {
+    "time": 1677631096883.9377,
+    "uuid": "780045e1-74c0-45f7-8743-ca5b0e7b48bc",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu": {
+    "time": 1677631094884.3972,
+    "uuid": "3ae60e04-ab49-4974-91ce-dbc046e0bab0",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-loading\\res": {
+    "time": 1677210388000,
+    "uuid": "998cdb00-0444-42b0-8ff2-cb9bae94e382",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-loading\\script": {
+    "time": 1677212252000,
+    "uuid": "3c725d1f-018e-48bb-93d9-4cbcda1c55e9",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources\\images\\bgr": {
+    "time": 1677631094743.782,
+    "uuid": "e840ba6e-3015-41c8-abf0-e89dbb9753fd",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res": {
+    "time": 1677631096790.1777,
+    "uuid": "10e2acde-9544-499a-b13f-ba72de036f54",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script": {
+    "time": 1677631097274.4373,
+    "uuid": "696a7be8-1dae-4033-8e63-a3c137d6e759",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu\\res": {
+    "time": 1676885032000,
+    "uuid": "0eeea893-de69-483f-b5c9-3e2936da0461",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu\\script": {
+    "time": 1676885032000,
+    "uuid": "24c20783-b9a3-491c-ae81-94eecb41c3bf",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims": {
+    "time": 1677631096352.7786,
+    "uuid": "fa128f35-5f63-4667-8b9d-ee2d07895115",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\fonts": {
+    "time": 1677631096852.6616,
+    "uuid": "03832a84-3003-4fc7-9b26-f13e86261380",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images": {
+    "time": 1677631095821.6545,
+    "uuid": "48a0f59a-6308-46af-8eba-70b2c71f47dd",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs": {
+    "time": 1677631095462.3645,
+    "uuid": "79b86fd4-bdd7-43b9-b0e6-2376ce23b9ac",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds": {
+    "time": 1677631096696.4478,
+    "uuid": "263c7a2d-2696-44ba-b044-0da82fc8c3ac",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\common": {
+    "time": 1677631097243.2324,
+    "uuid": "af73590a-5cda-4900-afe2-a1833c079ad1",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups": {
+    "time": 1677631097399.4092,
+    "uuid": "df3f2d58-538d-4196-abf2-9884d9ef23b6",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens": {
+    "time": 1677631097165.0872,
+    "uuid": "5f330c91-8eb1-49da-8326-cfe0b7f4a6d9",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud": {
+    "time": 1677631096462.1306,
+    "uuid": "30824042-c538-4fa6-8b94-4aa12ab9585e",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\bgr": {
+    "time": 1677631095790.4539,
+    "uuid": "3a14c8b0-93b1-4841-84dc-66a0076803fb",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common": {
+    "time": 1677631096274.677,
+    "uuid": "9901ce27-49c1-4bdf-8438-f35878b46130",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup": {
+    "time": 1677631095446.7422,
+    "uuid": "581c6e0c-60fa-4782-9cf3-f84e68283935",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen": {
+    "time": 1677631095618.579,
+    "uuid": "9541ae05-2292-4080-adb1-f8799159f9a6",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\transition": {
+    "time": 1677631095259.2883,
+    "uuid": "e520727f-6432-48ac-822d-f3988d28bad3",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\bgm": {
+    "time": 1677631096774.5884,
+    "uuid": "31080a66-9b32-49fc-ae64-2dda6d974017",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\sfx": {
+    "time": 1677631096665.2085,
+    "uuid": "254b9948-8129-452d-b3fd-9c4a09960306",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\table_view": {
+    "time": 1677631097461.8926,
+    "uuid": "bb6e200e-134c-48a9-94da-58b1def66e35",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-boot\\StartScene.ts": {
+    "time": 1677631094478.2214,
+    "uuid": "cb15ed2d-b8ab-47a9-a8cb-490bef8f8e3d",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-mock\\mock_config.ts": {
+    "time": 1677631094431.3574,
+    "uuid": "d957aed6-795e-4608-bbcd-32a786840fb4",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDAsyncTaskMgr.ts": {
+    "time": 1677631094415.7344,
+    "uuid": "a90463bc-e26e-4d8c-8470-5910953ada96",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDBaseTask.ts": {
+    "time": 1677631094181.4292,
+    "uuid": "beeaed24-3043-47b3-a61e-5c747f8fa6e0",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDParallelTask.ts": {
+    "time": 1677631094368.8706,
+    "uuid": "cd7be967-c2d0-432d-b1af-302d0912aa7f",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDSequenceTask.ts": {
+    "time": 1677631094243.9001,
+    "uuid": "c7e21317-9e56-48d4-9d26-f7f5a1cdf8f2",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDTaskContainer.ts": {
+    "time": 1677631094259.521,
+    "uuid": "33795dc7-e13e-4464-9552-c0cec9450774",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDTimelineTaskMgr.ts": {
+    "time": 1677631094197.037,
+    "uuid": "25081988-8ee2-406c-8687-d9931720f779",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio\\VDAudio.ts": {
+    "time": 1677631094056.4458,
+    "uuid": "7c110d1b-8761-48d6-9f22-6ca5d54b8a9a",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio\\VDAudioManager.ts": {
+    "time": 1677631094025.203,
+    "uuid": "ff32d3f7-8f1c-4463-8efa-ca5131d5c462",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio\\VDAudioNativeManager.ts": {
+    "time": 1677631094009.6152,
+    "uuid": "4f7490e3-40b8-4cbf-ab8f-6775c0e1f3b2",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio\\VDAudioWebManager.ts": {
+    "time": 1677631094087.7217,
+    "uuid": "273a4847-7d2f-4c2d-a2d8-03a199b3e11c",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDBaseDirector.ts": {
+    "time": 1677631093868.9893,
+    "uuid": "a58930d1-6810-479e-930f-f51db36bd0e8",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDEventListener.ts": {
+    "time": 1677631093947.1035,
+    "uuid": "fde47f38-d1ce-4b77-8499-3def82e5a806",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDGameConfig.ts": {
+    "time": 1677631093962.742,
+    "uuid": "3e5189e1-a422-471c-98a1-6e15bd485349",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDGameLoop.ts": {
+    "time": 1677631093759.641,
+    "uuid": "446ee467-054e-4e37-989a-72d02a3330fd",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDLocalDataManager.ts": {
+    "time": 1677631093931.5127,
+    "uuid": "b1012327-ab3a-4e48-a34c-6c515fa060c8",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDPortraitCanvasResize.ts": {
+    "time": 1677631093837.7468,
+    "uuid": "f16726c4-e215-4414-84c1-a2c77c7c95bf",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDBasePopup.ts": {
+    "time": 1677631092978.6077,
+    "uuid": "10c8a4a7-1d60-41a1-845d-1c421b67e144",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDBaseScreen.ts": {
+    "time": 1677631093369.1057,
+    "uuid": "114d5dde-64f7-482a-b573-1c045712d0a6",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDControlEvent.ts": {
+    "time": 1677631093353.4844,
+    "uuid": "758034b7-9c66-4e87-a888-ba6c06079a30",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDScreenManager.ts": {
+    "time": 1677631093212.8933,
+    "uuid": "28df31f7-c27e-4d30-8daf-d90cb38e8e57",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDScrollBar.ts": {
+    "time": 1677631092962.9512,
+    "uuid": "6b39a6bb-727a-45e5-879d-ef5c99c9f2c8",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDScrollContent.ts": {
+    "time": 1677631093119.192,
+    "uuid": "c5d2cd45-9f51-4526-9b6c-35a9e417100d",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDScrollView.ts": {
+    "time": 1677631093415.9739,
+    "uuid": "89eae07d-f1e4-4177-83a4-faf8eb143e77",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTabbar.ts": {
+    "time": 1677631093291.0364,
+    "uuid": "f57a0046-8eb7-4cf9-bdbd-44f8f2c4f0be",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTabbarItem.ts": {
+    "time": 1677631093025.4731,
+    "uuid": "922026b6-8e3c-48ba-a021-172bbca9f155",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTableCell.ts": {
+    "time": 1677631093041.0576,
+    "uuid": "f69fa7c8-7567-4318-af49-1f45d0ebe2e1",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTableView.ts": {
+    "time": 1677631093275.3777,
+    "uuid": "abdcf4f5-bb43-469a-998e-df4daf5d00bb",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTouchHandler.ts": {
+    "time": 1677631093400.3503,
+    "uuid": "d10695c2-a2af-4c76-97aa-023e9b2e6a07",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDViewGroup.ts": {
+    "time": 1677631093056.714,
+    "uuid": "0ab44c1c-74cf-4061-87bd-f69649b12340",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\utils\\VDExtensions.ts": {
+    "time": 1677631093712.7766,
+    "uuid": "7a6d6789-9c80-4a51-b1b1-81e66038e858",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\utils\\VDNodeScaleByBone.ts": {
+    "time": 1677631093681.57,
+    "uuid": "f61f1fac-7f95-4037-ba0f-5e87a813a475",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\utils\\VDUtils.ts": {
+    "time": 1677631093619.0496,
+    "uuid": "effc4fc4-6144-4718-ac23-06a1ae58f355",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\dm_Scene.ts": {
+    "time": 1677631096930.8003,
+    "uuid": "0a49bb49-6293-4fe2-952d-bb98446aef00",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\common\\dm_Config.ts": {
+    "time": 1677631097243.2324,
+    "uuid": "43db18a9-ba6a-4e3e-8368-0c6e23117f9e",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\common\\dm_Director.ts": {
+    "time": 1677631097227.572,
+    "uuid": "19697480-a0af-4896-a2f6-bc3a2baad456",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\dm_Popup1.ts": {
+    "time": 1677631097352.546,
+    "uuid": "b85020f5-1079-4ebc-816b-858f3b48c27c",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\dm_PopupNotify.ts": {
+    "time": 1677631097305.6814,
+    "uuid": "52a2c730-f14b-45ef-a67f-03890c48f600",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens\\dm_LoadingScreen.ts": {
+    "time": 1677631097102.604,
+    "uuid": "c873c463-29cb-44bf-af37-631d8b55eec5",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens\\dm_PlayScreen.ts": {
+    "time": 1677631097055.7378,
+    "uuid": "fc87ff73-076b-4ba3-a840-d0cf899d1bd2",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens\\dm_PlayScreen2.ts": {
+    "time": 1677631097086.9814,
+    "uuid": "820a6526-7620-4eb7-ad9a-9ed1122b0991",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens\\dm_PlayScreen3.ts": {
+    "time": 1677631097040.1174,
+    "uuid": "223d642a-763e-45a8-8682-cd00d9652a00",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\table_view\\dm_Item_TableView.ts": {
+    "time": 1677631097461.8926,
+    "uuid": "c9c87c87-8cee-46a3-8e3e-32f617c634ef",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\table_view\\dm_TableView.ts": {
+    "time": 1677631097477.5144,
+    "uuid": "98bb48d9-9493-41fb-b1df-0e3b57000427",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources.meta": {
+    "time": 1677631092681.7686
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-boot.meta": {
+    "time": 1677631092697.3887
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework.meta": {
+    "time": 1677631092744.2915
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games.meta": {
+    "time": 1677631092666.146
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-loading.meta": {
+    "time": 1677631092759.8745
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-lobby.meta": {
+    "time": 1677631092634.9067
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-mock.meta": {
+    "time": 1677631092728.6323
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources\\images.meta": {
+    "time": 1677631094603.1912
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task.meta": {
+    "time": 1677631092900.5015
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio.meta": {
+    "time": 1677631092838.0186
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common.meta": {
+    "time": 1677631092947.366
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\network.meta": {
+    "time": 1677631092853.6167
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\plugins.meta": {
+    "time": 1677631092791.162
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui.meta": {
+    "time": 1677631092916.0896
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\utils.meta": {
+    "time": 1677631092884.8457
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino.meta": {
+    "time": 1677631094821.8896
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu.meta": {
+    "time": 1677631094837.5115
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-loading\\res.meta": {
+    "time": 1677631097508.7588
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-loading\\script.meta": {
+    "time": 1677631097555.6208
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources\\images\\bgr.meta": {
+    "time": 1677631094650.0552
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res.meta": {
+    "time": 1677631094915.6172
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script.meta": {
+    "time": 1677631094962.4802
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu\\res.meta": {
+    "time": 1677631094868.7554
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu\\script.meta": {
+    "time": 1677631094884.3972
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims.meta": {
+    "time": 1677631095118.727
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\fonts.meta": {
+    "time": 1677631094978.1372
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images.meta": {
+    "time": 1677631095087.4587
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs.meta": {
+    "time": 1677631095071.8643
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds.meta": {
+    "time": 1677631095024.9678
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\common.meta": {
+    "time": 1677631096993.2866
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups.meta": {
+    "time": 1677631096899.5247
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens.meta": {
+    "time": 1677631096946.4233
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud.meta": {
+    "time": 1677631096352.7786
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\bgr.meta": {
+    "time": 1677631095712.3062
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common.meta": {
+    "time": 1677631095696.6836
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup.meta": {
+    "time": 1677631095196.8015
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen.meta": {
+    "time": 1677631095228.0437
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\transition.meta": {
+    "time": 1677631095165.558
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\bgm.meta": {
+    "time": 1677631096508.9941
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\sfx.meta": {
+    "time": 1677631096555.856
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\table_view.meta": {
+    "time": 1677631097383.788
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-boot\\StartScene.ts.meta": {
+    "time": 1677631094493.8762
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-mock\\mock_config.ts.meta": {
+    "time": 1677631094446.9775
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDAsyncTaskMgr.ts.meta": {
+    "time": 1677631094353.2505
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDBaseTask.ts.meta": {
+    "time": 1677631094228.2837
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDParallelTask.ts.meta": {
+    "time": 1677631094275.142
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDSequenceTask.ts.meta": {
+    "time": 1677631094384.5264
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDTaskContainer.ts.meta": {
+    "time": 1677631094322.0413
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\async-task\\VDTimelineTaskMgr.ts.meta": {
+    "time": 1677631094306.387
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio\\VDAudio.ts.meta": {
+    "time": 1677631094072.123
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio\\VDAudioManager.ts.meta": {
+    "time": 1677631094134.6052
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio\\VDAudioNativeManager.ts.meta": {
+    "time": 1677631094150.1873
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\audio\\VDAudioWebManager.ts.meta": {
+    "time": 1677631094118.9634
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDBaseDirector.ts.meta": {
+    "time": 1677631093915.9065
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDEventListener.ts.meta": {
+    "time": 1677631093900.2312
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDGameConfig.ts.meta": {
+    "time": 1677631093853.3684
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDGameLoop.ts.meta": {
+    "time": 1677631093790.8838
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDLocalDataManager.ts.meta": {
+    "time": 1677631093993.9934
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\common\\VDPortraitCanvasResize.ts.meta": {
+    "time": 1677631093775.288
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDBasePopup.ts.meta": {
+    "time": 1677631093166.0662
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDBaseScreen.ts.meta": {
+    "time": 1677631093431.5908
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDControlEvent.ts.meta": {
+    "time": 1677631093103.5796
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDScreenManager.ts.meta": {
+    "time": 1677631093462.8347
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDScrollBar.ts.meta": {
+    "time": 1677631093322.2432
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDScrollContent.ts.meta": {
+    "time": 1677631093337.867
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDScrollView.ts.meta": {
+    "time": 1677631093197.2712
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTabbar.ts.meta": {
+    "time": 1677631093009.8506
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTabbarItem.ts.meta": {
+    "time": 1677631093259.7578
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTableCell.ts.meta": {
+    "time": 1677631093478.4546
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTableView.ts.meta": {
+    "time": 1677631093087.9573
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDTouchHandler.ts.meta": {
+    "time": 1677631093228.5137
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\ui\\VDViewGroup.ts.meta": {
+    "time": 1677631093150.4104
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\utils\\VDExtensions.ts.meta": {
+    "time": 1677631093650.292
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\utils\\VDNodeScaleByBone.ts.meta": {
+    "time": 1677631093665.912
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\utils\\VDUtils.ts.meta": {
+    "time": 1677631093728.4038
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\dm_Scene.ts.meta": {
+    "time": 1677631096962.0127
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\common\\dm_Config.ts.meta": {
+    "time": 1677631097211.9517
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\common\\dm_Director.ts.meta": {
+    "time": 1677631097274.4373
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\dm_Popup1.ts.meta": {
+    "time": 1677631097399.4092
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\dm_PopupNotify.ts.meta": {
+    "time": 1677631097336.9219
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens\\dm_LoadingScreen.ts.meta": {
+    "time": 1677631097024.5305
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens\\dm_PlayScreen.ts.meta": {
+    "time": 1677631097165.0872
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens\\dm_PlayScreen2.ts.meta": {
+    "time": 1677631097133.8445
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\screens\\dm_PlayScreen3.ts.meta": {
+    "time": 1677631097180.7085
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\table_view\\dm_Item_TableView.ts.meta": {
+    "time": 1677631097415.028
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\script\\popups\\table_view\\dm_TableView.ts.meta": {
+    "time": 1677631097446.298
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-boot\\StartScene.scene": {
+    "time": 1677777148861.42,
+    "uuid": "fc3c5944-03ea-49ff-9194-231e2f9ee56e",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\plugins\\howler.min.js": {
+    "time": 1677631093572.2178,
+    "uuid": "c6fc2ce1-e7ba-4267-b153-d79c38977e54",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources\\images\\bgr\\bg_popup.png": {
+    "time": 1677631094681.3145,
+    "uuid": "4d6f0983-d68c-40d4-898c-f2a641ca65ce",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources\\images\\bgr\\default_sprite_splash.png": {
+    "time": 1677631094743.782,
+    "uuid": "b0c1b700-3b20-4846-90c3-754348c212b9",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\dm_Scene.scene": {
+    "time": 1677746881515.4204,
+    "uuid": "f003f78a-c18a-49b4-afe2-1f8df294b9b1",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\fonts\\fnt_jackpot_number.fnt": {
+    "time": 1677631096837.0415,
+    "uuid": "73167baf-b161-4ce4-adcf-3ef2fc693352",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\fonts\\fnt_jackpot_number.png": {
+    "time": 1677631096883.9377,
+    "uuid": "a869c7e0-5d41-4844-802f-ac23d5f453b4",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.atlas": {
+    "time": 1677631096462.1306,
+    "uuid": "88dd8625-1082-413a-a324-da15ce3c1b5b",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.json": {
+    "time": 1677631096399.6436,
+    "uuid": "6e3a9d1c-1551-40f3-960e-629c055e9007",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.png": {
+    "time": 1677631096368.3994,
+    "uuid": "4f8c96d2-66bd-4d35-a103-daeaf2489f48",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\bgr\\bg_popup.png": {
+    "time": 1677631095743.5464,
+    "uuid": "1363bfbb-aa4e-46f6-b798-7704a1474659",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\bgr\\default_sprite_splash.png": {
+    "time": 1677631095790.4539,
+    "uuid": "0e89a6da-976e-444e-a44d-2f4c2f4960d6",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_button_normal.png": {
+    "time": 1677631095946.6594,
+    "uuid": "3515dfca-3542-4db2-be75-6b7c0f668178",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_button_press_orange.png": {
+    "time": 1677631096056.007,
+    "uuid": "eaf7fa72-a454-4fb6-9da9-76f0bc4bade3",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_cell_normal.png": {
+    "time": 1677631095868.5505,
+    "uuid": "79a67b53-1397-4153-87ba-096ed97d97de",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_cell_press.png": {
+    "time": 1677631096180.945,
+    "uuid": "205b23c2-a5f9-482d-8095-c30e6c7da8b4",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_item.png": {
+    "time": 1677631095837.3108,
+    "uuid": "de4ae590-4c01-4acf-b666-cfe86763bae1",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_popup.png": {
+    "time": 1677631095993.5232,
+    "uuid": "554c70b5-0482-4ac5-83ed-82b10df40b27",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_popup_2.png": {
+    "time": 1677631095884.1777,
+    "uuid": "57c346ef-a2df-41af-9365-a3217dad4d1a",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\btn_back.png": {
+    "time": 1677631096227.8088,
+    "uuid": "1254b907-7b29-475a-9ebf-6eb231fd7e1f",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\btn_x.png": {
+    "time": 1677631096243.4573,
+    "uuid": "587395c4-a818-4f15-80be-5042867088bc",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\popup_button_black.png": {
+    "time": 1677631096134.1145,
+    "uuid": "a623d747-0610-450d-bba0-6dc4440f8866",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup\\item_table_view.prefab": {
+    "time": 1677631177700.7876,
+    "uuid": "d4f63667-10bd-4a67-a295-9d88824ec6fe",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup\\popup_1.prefab": {
+    "time": 1677631177720.8953,
+    "uuid": "e9c075da-27b8-4d05-bdab-b710c6c5f93e",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup\\popup_notify.prefab": {
+    "time": 1677631177720.8953,
+    "uuid": "cb3d96cd-d6f4-4f89-9460-b9f2f3cbf9c2",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup\\popup_table_view.prefab": {
+    "time": 1677631177761.0664,
+    "uuid": "9f6a7df5-1500-4fce-979f-cc98016044c2",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen\\loading_screen.prefab": {
+    "time": 1677749075388.0583,
+    "uuid": "6104e8f6-0564-43f7-9c7c-c0cb3d2a9054",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen\\play_screen.prefab": {
+    "time": 1677631177781.139,
+    "uuid": "040499d5-e9f5-46cf-9423-f575207e4159",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen\\play_screen_2.prefab": {
+    "time": 1677631177786.1638,
+    "uuid": "160bd486-554c-4599-838b-fd29668553ff",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen\\play_screen_3.prefab": {
+    "time": 1677631177800.72,
+    "uuid": "82c78f5e-5e73-47eb-bff6-5470d68bd74f",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\transition\\transition_cloud.prefab": {
+    "time": 1677631177820.829,
+    "uuid": "17378f89-b231-47b4-8e3e-1866633b0f39",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\bgm\\dm_bgm_main.mp3": {
+    "time": 1677631096758.991,
+    "uuid": "7203006d-ecb8-400a-a19f-9d643efd800f",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\bgm\\dm_bgm_win.mp3": {
+    "time": 1677631096790.1777,
+    "uuid": "4e0ad04e-9182-40cf-a82d-4279619e1f2e",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\sfx\\dm_sfx_appear.mp3": {
+    "time": 1677631096587.0989,
+    "uuid": "6178a56b-0162-473f-8e5a-3257b7f30dca",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\sfx\\dm_sfx_click.mp3": {
+    "time": 1677631096618.3687,
+    "uuid": "afe4ff51-5eb3-4bdb-82d1-7f3102ebade9",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\sfx\\dm_sfx_ting.mp3": {
+    "time": 1677631096649.5918,
+    "uuid": "49afa2ad-9464-4e6f-a1fd-9bbaead7756c",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-boot\\StartScene.scene.meta": {
+    "time": 1677631177280.9995
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\dm_Scene.scene.meta": {
+    "time": 1677631177280.9995
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-framework\\plugins\\howler.min.js.meta": {
+    "time": 1677631093525.319
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\fonts\\fnt_jackpot_number.fnt.meta": {
+    "time": 1677631096805.824
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.atlas.meta": {
+    "time": 1677631096446.5063
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources\\images\\bgr\\default_sprite_splash.png.meta": {
+    "time": 1677631094712.5396
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.json.meta": {
+    "time": 1677631096493.373
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\resources\\images\\bgr\\bg_popup.png.meta": {
+    "time": 1677631094775.0256
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\bgr\\default_sprite_splash.png.meta": {
+    "time": 1677631095774.7893
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\fonts\\fnt_jackpot_number.png.meta": {
+    "time": 1677631096852.6616
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.png.meta": {
+    "time": 1677631096415.2727
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\bgr\\bg_popup.png.meta": {
+    "time": 1677631095821.6545
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_button_normal.png.meta": {
+    "time": 1677631096040.3547
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_button_press_orange.png.meta": {
+    "time": 1677631096087.2505
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_cell_normal.png.meta": {
+    "time": 1677631096196.5654
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_cell_press.png.meta": {
+    "time": 1677631095931.029
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_item.png.meta": {
+    "time": 1677631095977.8674
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_popup.png.meta": {
+    "time": 1677631096274.677
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\bg_popup_2.png.meta": {
+    "time": 1677631096149.702
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup\\item_table_view.prefab.meta": {
+    "time": 1677631177710.8625
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup\\popup_1.prefab.meta": {
+    "time": 1677631177725.9224
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup\\popup_notify.prefab.meta": {
+    "time": 1677631177730.9312
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\popup\\popup_table_view.prefab.meta": {
+    "time": 1677631177766.093
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen\\loading_screen.prefab.meta": {
+    "time": 1677631177774.13
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen\\play_screen.prefab.meta": {
+    "time": 1677631177786.1638
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen\\play_screen_2.prefab.meta": {
+    "time": 1677631177795.7095
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\popup_button_black.png.meta": {
+    "time": 1677631096102.8723
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\screen\\play_screen_3.prefab.meta": {
+    "time": 1677631177821.8572
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs\\transition\\transition_cloud.prefab.meta": {
+    "time": 1677631177830.8801
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\btn_back.png.meta": {
+    "time": 1677631095915.4187
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common\\btn_x.png.meta": {
+    "time": 1677631096290.3303
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\sfx\\dm_sfx_appear.mp3.meta": {
+    "time": 1677631096680.8303
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\bgm\\dm_bgm_win.mp3.meta": {
+    "time": 1677631096712.0696
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\sfx\\dm_sfx_click.mp3.meta": {
+    "time": 1677631096665.2085
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\bgm\\dm_bgm_main.mp3.meta": {
+    "time": 1677631096743.3137
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds\\sfx\\dm_sfx_ting.mp3.meta": {
+    "time": 1677631096602.7195
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam.meta": {
+    "time": 1677746779095.8174
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res.meta": {
+    "time": 1677745806300.7578
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script.meta": {
+    "time": 1677745839258.3098
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\anims.meta": {
+    "time": 1677745995769.7092
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\fonts.meta": {
+    "time": 1677746005094.8137
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam": {
+    "time": 1677745839250.2478,
+    "uuid": "48095ceb-f3f4-4224-b6b0-aca7482348fe",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res": {
+    "time": 1677746184750.9414,
+    "uuid": "d0c5a49c-db75-401f-8208-876c1ecd4973",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script": {
+    "time": 1677745972275.3088,
+    "uuid": "e32c2a99-c3f3-409f-9ca5-2b339673c586",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\anims": {
+    "time": 1677745995753.6382,
+    "uuid": "f3b4aecb-aef7-416d-8804-98757a9ba8ed",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\fonts": {
+    "time": 1677746005082.7124,
+    "uuid": "f173b2f5-7778-491d-930a-52eba17380ec",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images.meta": {
+    "time": 1677746020174.8196
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images": {
+    "time": 1677747319480.921,
+    "uuid": "e012d1fa-09c3-4421-bffe-d53fc5e9ddd0",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs.meta": {
+    "time": 1677746039313.2932
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs": {
+    "time": 1677746085827.8499,
+    "uuid": "6edda5bd-45ab-47c9-9af3-da5fd0e739de",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\sounds.meta": {
+    "time": 1677746148638.8083
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\sounds": {
+    "time": 1677746148623.686,
+    "uuid": "bcfb31ed-265c-428f-b9ee-f1e2b2df065c",
+    "missing": true
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\common.meta": {
+    "time": 1677745862599.393
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\common": {
+    "time": 1677746420329.8516,
+    "uuid": "e5f34ab7-8047-4b1b-95d4-67f0593ae262",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\popups.meta": {
+    "time": 1677745886768.256
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\popups": {
+    "time": 1677745886758.4229,
+    "uuid": "edccd589-98da-4ecf-abad-2d8b243589c7",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\screens.meta": {
+    "time": 1677745898172.7092
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\screens": {
+    "time": 1677776188818.978,
+    "uuid": "ba70762c-1730-4097-954f-7396871308d9",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\popup.meta": {
+    "time": 1677746060578.152
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\popup": {
+    "time": 1677776165324.415,
+    "uuid": "3fe730e8-6396-4700-83bd-d34f839021a0",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\screen.meta": {
+    "time": 1677746073181.768
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\screen": {
+    "time": 1677776132761.8997,
+    "uuid": "dde4c6c9-c119-4d59-b6fe-e243421a5292",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\transition.meta": {
+    "time": 1677746085832.881
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\transition": {
+    "time": 1677746085819.99,
+    "uuid": "18dd00a1-f478-46ad-b7a1-4676a4999166",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\ex_Scene.ts.meta": {
+    "time": 1677745951776.873
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\ex_Scene.ts": {
+    "time": 1677746935517.765,
+    "uuid": "d23a7220-d85a-4154-851c-73c5d062fe00",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\common\\ex_Config.ts.meta": {
+    "time": 1677746402348.7295
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\common\\ex_Config.ts": {
+    "time": 1677746679891.2546,
+    "uuid": "dff0e0ef-36bd-42e8-94dc-472ec7dde784",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\common\\ex_Director.ts.meta": {
+    "time": 1677746420334.8608
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\common\\ex_Director.ts": {
+    "time": 1677751871505.2075,
+    "uuid": "4f2e873e-c10c-461d-aa57-9dacb75789d3",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\screens\\ex_LoadingScreen.ts.meta": {
+    "time": 1677746879819.4644
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\screens\\ex_LoadingScreen.ts": {
+    "time": 1677777131239.6807,
+    "uuid": "05715164-e4c8-464e-9464-d22c29a6cccf",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\ex_Scene.scene.meta": {
+    "time": 1677746184778.5796
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\ex_Scene.scene": {
+    "time": 1677746248699.8347,
+    "uuid": "4315dcf8-3983-466d-9a51-4411d44f2fb3",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\screen\\loading_screen.prefab.meta": {
+    "time": 1677747018851.89
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\screen\\loading_screen.prefab": {
+    "time": 1677750931560.4807,
+    "uuid": "5448dbb3-c2b8-4796-ab6c-82c2b66ad481",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\bgr.meta": {
+    "time": 1677747291016.8506
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\bgr\\bg_popup.png.meta": {
+    "time": 1677747291196.4739
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\bgr\\default_sprite_splash.png.meta": {
+    "time": 1677747291180.0715
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\bgr": {
+    "time": 1677747291071.9016,
+    "uuid": "0bcc9bb6-ac95-4b00-8eee-1c0840cfbfe7",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\bgr\\default_sprite_splash.png": {
+    "time": 1677631095790.4539,
+    "uuid": "004209ac-e36e-4165-a2da-003a0130b8c1",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\bgr\\bg_popup.png": {
+    "time": 1677631095743.5464,
+    "uuid": "31c2cda3-3bdd-47b8-be4a-151ecfcc8833",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common.meta": {
+    "time": 1677747319462.9192
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_button_normal.png.meta": {
+    "time": 1677747320055.5974
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_button_press_orange.png.meta": {
+    "time": 1677747320034.3555
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_cell_normal.png.meta": {
+    "time": 1677747320034.3555
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_cell_press.png.meta": {
+    "time": 1677747320026.3486
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_item.png.meta": {
+    "time": 1677747320104.524
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_popup.png.meta": {
+    "time": 1677747320145.7515
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_popup_2.png.meta": {
+    "time": 1677747320156.662
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\btn_back.png.meta": {
+    "time": 1677747320197.8672
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\btn_x.png.meta": {
+    "time": 1677747320221.1667
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\popup_button_black.png.meta": {
+    "time": 1677747320248.351
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common": {
+    "time": 1677747319639.2048,
+    "uuid": "9d19f297-5c44-4544-b268-801777548b7b",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_cell_press.png": {
+    "time": 1677631096180.945,
+    "uuid": "c70c40dd-5e59-43df-ba4a-4aeff380ca02",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_cell_normal.png": {
+    "time": 1677631095868.5505,
+    "uuid": "40936264-52ed-411c-a7c3-52016d23ba0c",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_button_press_orange.png": {
+    "time": 1677631096056.007,
+    "uuid": "23c96720-322b-480a-91f8-16cea3207c15",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_button_normal.png": {
+    "time": 1677631095946.6594,
+    "uuid": "f807f04b-f87a-4e34-aa88-1cecc3d925b2",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_item.png": {
+    "time": 1677631095837.3108,
+    "uuid": "6a6ca278-ff35-434f-9d9b-2c18db36c3dd",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_popup.png": {
+    "time": 1677631095993.5232,
+    "uuid": "1dbe2f5b-de0d-48c7-984a-6e04d757509c",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\bg_popup_2.png": {
+    "time": 1677631095884.1777,
+    "uuid": "a37f723c-a514-4625-80c5-9277c0bf55d2",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\btn_back.png": {
+    "time": 1677631096227.8088,
+    "uuid": "e0a99e8f-5511-4853-b1a7-05009578f28b",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\btn_x.png": {
+    "time": 1677631096243.4573,
+    "uuid": "5e006a7e-b30d-4d55-9aab-3fcef2e4ccaf",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common\\popup_button_black.png": {
+    "time": 1677631096134.1145,
+    "uuid": "ccc3a242-2723-4163-949d-e9c7d666c2f9",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-exam.meta": {
+    "time": 1677748208612.1924
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-exam\\script.meta": {
+    "time": 1677748208612.1924
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-exam\\script\\ex_Scene.ts.meta": {
+    "time": 1677748208628.1924
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-exam": {
+    "time": 1677748208576.4602,
+    "uuid": "39b44189-4518-42d3-92e6-3c30d53f4f8d",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-exam\\script": {
+    "time": 1677748208579.99,
+    "uuid": "843a27ff-ba59-4a9a-a926-dd626d107a96",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-exam\\script\\ex_Scene.ts": {
+    "time": 1677748153291.2214,
+    "uuid": "0267ca67-fcf9-4e70-8b03-84d7cca3ca4e",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\screen\\level_comparison_screen.prefab.meta": {
+    "time": 1677751260219.4307
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\screen\\level_comparison_screen.prefab": {
+    "time": 1677776984875.9402,
+    "uuid": "d1fa5230-632c-4a6d-95df-908712db669e",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\screens\\ex_LevelComparison.ts.meta": {
+    "time": 1677751313179.9944
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\screens\\ex_LevelComparison.ts": {
+    "time": 1677777020524.6086,
+    "uuid": "e98ada2a-503a-482d-97be-10d1e51b0347",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\screen\\level1.prefab.meta": {
+    "time": 1677776132771.9055
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\screen\\level1.prefab": {
+    "time": 1677776132768.8818,
+    "uuid": "498461cf-6ade-4883-a6d2-2e8d3a1db8e0",
+    "missing": true
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\popup\\popup_notify.prefab.meta": {
+    "time": 1677776165333.391
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\popup\\popup_notify.prefab": {
+    "time": 1677776165331.3997,
+    "uuid": "2d92276d-abac-48d4-9703-c6ea9061edaa",
+    "missing": false
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\screens\\ex_Level1.ts.meta": {
+    "time": 1677776188828.953
+  },
+  "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\script\\screens\\ex_Level1.ts": {
+    "time": 1677776188817.9802,
+    "uuid": "cee473c5-8144-4e3e-8ad6-b2bb01bd0258",
+    "missing": true
+  },
+  "D:\\game\\FrameworkCocos\\assets\\resources": {
+    "time": 1677631096000,
+    "uuid": "7aa56b10-5dbe-49ca-809a-41cadf7b0744",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-framework": {
+    "time": 1677631096000,
+    "uuid": "c2a615a9-08f0-40d8-b2ff-f7526a09476e",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games": {
+    "time": 1677748210000,
+    "uuid": "2458b3fe-4396-4e55-8639-9b41acd05249",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-loading": {
+    "time": 1677631098000,
+    "uuid": "2d61e801-00a5-4659-8bec-6f0ab3a849ea",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-lobby": {
+    "time": 1677208716000,
+    "uuid": "fdd4bc20-9721-4122-9b00-aa5cb1c732b3",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\resources\\images": {
+    "time": 1677631096000,
+    "uuid": "e2dc2562-27a0-4c7f-afdc-2899b5c75ab9",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-framework\\common": {
+    "time": 1677631094000,
+    "uuid": "4e304cef-cb7c-4743-b687-3206627162c5",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-framework\\network": {
+    "time": 1677631094000,
+    "uuid": "698f89db-df3b-404d-a49a-ea372a079aa7",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-framework\\plugins": {
+    "time": 1677631094000,
+    "uuid": "2c2f5682-7a2d-4219-af38-ee8edb9227c0",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam": {
+    "time": 1677745840000,
+    "uuid": "48095ceb-f3f4-4224-b6b0-aca7482348fe",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino": {
+    "time": 1677631098000,
+    "uuid": "780045e1-74c0-45f7-8743-ca5b0e7b48bc",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu": {
+    "time": 1677631096000,
+    "uuid": "3ae60e04-ab49-4974-91ce-dbc046e0bab0",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-loading\\res": {
+    "time": 1677210388000,
+    "uuid": "998cdb00-0444-42b0-8ff2-cb9bae94e382",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-loading\\script": {
+    "time": 1677212252000,
+    "uuid": "3c725d1f-018e-48bb-93d9-4cbcda1c55e9",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\resources\\images\\bgr": {
+    "time": 1677631096000,
+    "uuid": "e840ba6e-3015-41c8-abf0-e89dbb9753fd",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res": {
+    "time": 1677830757136.907,
+    "uuid": "d0c5a49c-db75-401f-8208-876c1ecd4973",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res": {
+    "time": 1677631098000,
+    "uuid": "10e2acde-9544-499a-b13f-ba72de036f54",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu\\res": {
+    "time": 1676885032000,
+    "uuid": "0eeea893-de69-483f-b5c9-3e2936da0461",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu\\script": {
+    "time": 1676885032000,
+    "uuid": "24c20783-b9a3-491c-ae81-94eecb41c3bf",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\fonts": {
+    "time": 1677830820519.9817,
+    "uuid": "f173b2f5-7778-491d-930a-52eba17380ec",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images": {
+    "time": 1678412924209.4746,
+    "uuid": "e012d1fa-09c3-4421-bffe-d53fc5e9ddd0",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs": {
+    "time": 1678420259093.4934,
+    "uuid": "6edda5bd-45ab-47c9-9af3-da5fd0e739de",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims": {
+    "time": 1677631098000,
+    "uuid": "fa128f35-5f63-4667-8b9d-ee2d07895115",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images": {
+    "time": 1677631096000,
+    "uuid": "48a0f59a-6308-46af-8eba-70b2c71f47dd",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs": {
+    "time": 1677631096000,
+    "uuid": "79b86fd4-bdd7-43b9-b0e6-2376ce23b9ac",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds": {
+    "time": 1677631098000,
+    "uuid": "263c7a2d-2696-44ba-b044-0da82fc8c3ac",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common": {
+    "time": 1677747320000,
+    "uuid": "9d19f297-5c44-4544-b268-801777548b7b",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\transition": {
+    "time": 1677746086000,
+    "uuid": "18dd00a1-f478-46ad-b7a1-4676a4999166",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common": {
+    "time": 1677631098000,
+    "uuid": "9901ce27-49c1-4bdf-8438-f35878b46130",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\resources.meta": {
+    "time": 1677631094000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-framework.meta": {
+    "time": 1677631094000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games.meta": {
+    "time": 1677631094000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-loading.meta": {
+    "time": 1677631094000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-lobby.meta": {
+    "time": 1677631094000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\resources\\images.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-framework\\common.meta": {
+    "time": 1677631094000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-framework\\network.meta": {
+    "time": 1677631094000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-framework\\plugins.meta": {
+    "time": 1677631094000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam.meta": {
+    "time": 1677746780000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-loading\\res.meta": {
+    "time": 1677631098000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-loading\\script.meta": {
+    "time": 1677631098000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\resources\\images\\bgr.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res.meta": {
+    "time": 1677745808000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu\\res.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-pikachu\\script.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\fonts.meta": {
+    "time": 1677746006000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images.meta": {
+    "time": 1677746022000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs.meta": {
+    "time": 1677746040000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\prefabs.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\sounds.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\popup_common.meta": {
+    "time": 1677747320000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\prefabs\\transition.meta": {
+    "time": 1677746086000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\images\\popup_common.meta": {
+    "time": 1677631096000
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\level1.meta": {
+    "time": 1677816008151.4832
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\images\\level1": {
+    "time": 1677816008150.5024,
+    "uuid": "0557a9d2-ba28-4649-91fe-5b0d171a4171",
+    "missing": false
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\sounds.meta": {
+    "time": 1677830743042.7056
+  },
+  "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\sounds": {
+    "time": 1677830743081.772,
+    "uuid": "05dac45c-cc45-4ddf-9cd7-d8e03942aacb",
+    "missing": false
+  }
+}

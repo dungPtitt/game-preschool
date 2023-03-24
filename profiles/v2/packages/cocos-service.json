@@ -1,0 +1,31 @@
+{
+  "__version__": "3.0.4",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "30a862",
+        "services": []
+      },
+      "web-mobile": {
+        "configID": "30a862",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1677220910638": {
+        "configID": "30a862",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1677221549932": {
+        "configID": "30a862",
+        "services": []
+      }
+    },
+    "__version__": "1.3.4"
+  },
+  "builder-options": {
+    "configID": "30a862",
+    "services": []
+  }
+}

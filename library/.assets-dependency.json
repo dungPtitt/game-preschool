@@ -1,0 +1,27 @@
+{
+  "path": {
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\fonts\\fnt_jackpot_number.fnt": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\fonts\\fnt_jackpot_number.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.json": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.atlas"
+    ],
+    "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.json": [
+      "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.atlas"
+    ],
+    "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\anims\\Cloud\\Clound.json": [
+      "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\anims\\Cloud\\Clound.atlas"
+    ]
+  },
+  "uuid": {
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\FrameworkCocos\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.json": [
+      "4f8c96d2-66bd-4d35-a103-daeaf2489f48@6c48a"
+    ],
+    "D:\\game\\FrameworkCocos\\assets\\vd-games\\pvp-domino\\res\\anims\\Cloud\\Clound.json": [
+      "4f8c96d2-66bd-4d35-a103-daeaf2489f48@6c48a"
+    ],
+    "D:\\game\\FrameworkCocos\\assets\\vd-games\\preschool-exam\\res\\anims\\Cloud\\Clound.json": [
+      "d811d915-f1a4-4731-9a8f-2ba73884f9d7@6c48a"
+    ]
+  }
+}
